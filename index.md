@@ -6,7 +6,7 @@ Recently, [Mati Roy](https://www.facebook.com/mati.roy.09) wrote a Facebook post
 We are very much aligned on our approaches towards partnerships and relationships. So I decided to fork his document and write my own!
 
 ## Bounty 
-I am offering a **$100,000** bounty to the person who sets me up with my life parter. Your bounty will be paid in the following installments, via check, wire, and/or crypto, based on a typical VC vesting schedule.
+I am offering a **$100,000** bounty to the person who sets me up with my life partner. Your bounty will be paid in the following installments, via check, wire, and/or crypto, based on a typical VC vesting schedule.
 
 Upon introducing me to a prospective "life partner", we may start dating, and "officially" start our relationship.
 
