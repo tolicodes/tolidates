@@ -69,3 +69,86 @@ Here we assume our net income grows over time
 - **Feb 1, 2023**: We celebrate our 13 month anniverary. You are issued your monthly payment of *$6,000*
 - Jun 1, 2023: If we break up on month 18, you retain your $72,000 + the monthly payments ($36,000). Totalling **$108,000**
 - **Jan 1, 2026**: At this point, we have exited out of our respective startups, and have netted $1,000,000. Uou have fully vested your bounty. So you collect a total of **$288,000** off of our net salary over the years, as well as 10% of the 1M (an additional **$100,000**. For a grand total of **$388,000**
+
+## Toli's Dating Profile
+### Purpose of This Profile
+- Find a partner who can support me in my growth
+- Find others along the way who can guide me and work with me on achieving my goals
+
+### Looks
+#### Photos
+
+#### Physical Description
+
+### Personality
+Describe my personality
+
+### How I Date
+
+### What I'm Looking For In a Relationship
+#### Personality
+
+#### Goals
+
+#### Location
+
+#### Timeline
+
+### Relationship Structure
+#### Romance
+
+#### Sex
+
+#### Logistics
+
+### Children
+#### Genetic Code
+Talk about my bipolar and other illnesses
+
+#### Number
+
+#### Communal Upbringing
+
+#### Parenting Style 
+
+
+### My Work
+#### Work History
+
+#### Novel (Current)
+
+#### Work Goals
+
+### Wealth
+#### My Finances
+Talk about my manic episodes and spending
+Talk about contracting
+Talk about Novel startup 
+Talk about my equity in startups
+Talk about my investments
+
+### What I'm Interested In
+#### Looks
+
+#### Virtues
+
+#### Health
+
+#### Goals
+
+#### Personality
+
+#### Sex Life/Romantic Life
+
+### More Info on Me
+- LinkedIn
+- Podcasts
+- Portfolio
+- Medium
+- Life Index
+- Principles Site
+- ToliCodes site
+- ToliWags site
+- Find document where I listed a whole bunch of resources on me
+
+## Contact
