@@ -10,6 +10,42 @@ I am offering a **$100,000** bounty to the person who sets me up with my life pa
 
 Upon introducing me to a prospective "life partner", we may start dating, and "officially" start our relationship.
 
+
+## About Toli
+First off...a little about me!
+
+![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/dafc79c6-4072-405c-971d-e4b96914fa33/903b7524-efe8-4bd5-87fe-c2e022ce2f65/Untitled.png)
+
+JoyList
+
+**How do people Describe Me** 
+![WhatsApp Image 2024-01-05 at 17 09 19](https://github.com/tolicodes/tolidates/assets/30080870/62943efa-d7c1-4047-ac49-920b9c0b88ff)
+
+Exoskeleton Golden Retriever I'm loyal, genuine, adventurous, silly, love to play, and a bit naughty 😈 I'm a bit peculiar. Some are turned off by this. Others are very turned on by it. Which category you fall into? One way to find out!
+
+**My Interests**
+
+- 🤸 My hobbies/communities include acro yoga, cuddle parties, circling, and going to the Russian bathhouse
+- 🎥 I recently discovered that I like making obscure parody videos with my friends. No topic is off limits
+- 🐶 I have a super sweet Border Collie mix named Promise. She is also the perfect mix of cuddly, athletic, calm, exciting, and absolutely adorable 🥰
+- 😈 I'm into kink, BDSM, polyamory, and related communities. Touch, physical and emotional intimacy, and creativity are super important to me.
+- 🧠 I enjoy talking about consciousness, psychedelics, psychology, philosophy, and AI.
+- 😡 I do not hold grudges for over 1 month.
+- ➡️⬅️ Needless to say, I am neurodivergent.
+- 🤖 I am a frontend engineer at Dropbox. I'm also getting into prompt engineering and believe it will be the only engineering in 10-20 years.
+
+**My Turns Ons**
+
+1. Creativity is my #1 turn on.
+2. Not taking life too seriously is my #2 turn on Even though I identify as a straight cis male, I also identify as pretty open minded. If it feels good, I'm on board! I am in the kink, BDSM, cuddle and poly communities. I am still very much exploring what this means to me. But I strongly value both emotional and physical intimacy. I also believe that there are many ways to love someone. Each relationship is unique and special. Needless to say, I value open communication and assuming good faith. I believe that just about any argument boils down to a misunderstanding or misaligned desires. There's almost always a creative solution, though it may not come linearly, immediately, or painlessly.
+
+**Also Looking For**
+
+- 🪀 Activity Partner - introduce me to something fun, new and a little obscure
+- 🤣 Obscure Parody Video Partner - just because nobody else gets the reference, or...wants to get the reference, doesn't mean it shouldn't be parodied
+- 🤸 AcroYoga Partner - someone to regularly play with me in my general area (Prospect Park)
+- 🐶 Pup Parents - Promise wants some furiends too
+
 ### 1 Year Cliff
 If the romantic, sexual, and/or "life partnership" relationship between myself and the candidate you referred is terminated before 1 year, a bounty shall not be issued.
 
