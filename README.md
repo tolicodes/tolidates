@@ -13,8 +13,8 @@ Upon introducing me to a prospective "life partner", we may start dating, and "o
 
 ## About Toli
 First off...a little about me!
+![048CC85C-536E-47DB-9831-0989CC48B9D4_1_105_c](https://github.com/tolicodes/tolidates/assets/30080870/201aab4b-4324-4159-82f4-81b42cdba2c6)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/dafc79c6-4072-405c-971d-e4b96914fa33/903b7524-efe8-4bd5-87fe-c2e022ce2f65/Untitled.png)
 
 JoyList
 
