@@ -103,7 +103,7 @@ I value both emotional and physical intimacy and believe in diverse ways of lovi
 - 😜 not taking life too seriously.
 
 ## Links
-- 📃 [sex.toli.love](https://sex.toli.love) - 100+ things that turn me on
+- 📃 [sex.toli.love](http://sex.toli.love) - 100+ things that turn me on
 - 💼 [ToliCodes](https://tolicodes.com) - my more "professional" site
 
 ## Also Looking For
