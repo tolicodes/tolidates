@@ -4,6 +4,7 @@
 I am offering a generous `$100,000` bounty to the person who introduces me to my "primary partner". The bounty will be paid in installments, following a typical vesting schedule. Upon introducing me to a potential primary partner, we may begin dating. After a year, if we mutually decide to commit as primary partners, you will receive your first installment. After that, you will be paid in prorated monthly installments, until the full $100,000 is paid out.
 
 ## Do Dating Bounties Kill the Romance?
+![me](/photos/21.jpeg)
 When my project first made its debut on [HackerNews](https://news.ycombinator.com/item?id=36991616) in late December 2021, the feedback was unexpectedly harsh. Many labeled my approach as "cringe" with comments that reading about it made them "wish for a reset button on humanity," accusing me of "commercializing" love. At the time, I was baffled by the intensity of the backlash.
 
 Fast forward to February 2024, when a New York Times journalist approached Mati and me to discuss our initiative for a Valentine's Day feature. One question from her lingered in my mind:
@@ -77,14 +78,16 @@ Instead of a fixed bounty, you can opt for a profit-sharing agreement, calculate
 - Profit Sharing Multiplier  0.1 (10%)
 
 ## About Toli
-![me](/photos/21.jpeg)
-
 ### How do people Describe Me - 🐕 Exoskeleton Golden Retriever
+![Photo 20](/photos/20.jpeg)
 Loyal, adventurous, and playfully naughty. 
 
 Even though I identify as a straight cis male but embrace openness. I'm involved in kink, BDSM, cuddle, and poly communities, still exploring their meaning to me. 
 
 I value both emotional and physical intimacy and believe in diverse ways of loving. Open communication and assuming good intentions are crucial to me. I believe most conflicts arise from misunderstandings or differing desires, but I'm confident in finding creative solutions.
+
+### My Motto
+> Let me into your world and allow me to experience your magic. ✨
 
 ### Passions & Play
 ![Photo 24](/photos/24.jpeg) 
