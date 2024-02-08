@@ -19,7 +19,7 @@ First off...a little about me!
 ![me](/photos/0.jpeg)
 
 ### How do people Describe Me - 🐕 Exoskeleton Golden Retriever
-![exotriever](/photos/exotriever.JPG)
+![exotriever](/photos/exotreiver.JPG)
 
 Loyal, adventurous, and playfully naughty. 
 
