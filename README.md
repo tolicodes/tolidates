@@ -96,9 +96,8 @@ I value both emotional and physical intimacy and believe in diverse ways of lovi
 - 🧠 Diving deep into consciousness, psychedelics, and AI discussions.
 - 😡 I hold a grudge for max 1mo. Except for February
 - 🖥️ Proudly neurodivergent, pushing boundaries in frontend and prompt engineering at Dropbox.
-- Turn-ons:
-  - 🎨 Creativity
-  - 😜 not taking life too seriously.
+- 🎨 Creativity
+- 😜 not taking life too seriously.
 
 ## Links
 - 📃 [sex.toli.love](https://sex.toli.love) - 100+ things that turn me on
