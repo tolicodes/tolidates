@@ -25,11 +25,9 @@ The value of these relationships is immeasurable to me. I would have gladly inve
 # Meet Toli
 First off...a little about me!
 
-![me](/photos/0.jpeg)
+![me](/photos/4.jpeg)
 
 ## How do people Describe Me - 🐕 Exoskeleton Golden Retriever
-![exotriever](/photos/exotreiver.JPG)
-
 Loyal, adventurous, and playfully naughty. 
 
 My quirky exoskeleton might be your cup of tea—or not. Dare to find out? 🍵 
