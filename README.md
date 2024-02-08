@@ -104,3 +104,4 @@ Total Bounty        |              | $100,000.00   | $60,000.00    | $120,000.00
 
 CONSTANTS
 Tax/Net Comp Multiplier | 0.6       |
+
