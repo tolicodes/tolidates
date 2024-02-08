@@ -18,16 +18,16 @@ Upon introducing me to a prospective "primary partner", we may start dating. Aft
 ## About Toli
 First off...a little about me!
 
-![048CC85C-536E-47DB-9831-0989CC48B9D4_1_105_c](https://github.com/tolicodes/tolidates/assets/30080870/201aab4b-4324-4159-82f4-81b42cdba2c6)
+![me](/photos/0.jpeg)
 
 ### How do people Describe Me - 🐕 Exoskeleton Golden Retriever
-![WhatsApp Image 2024-01-05 at 17 09 19](https://github.com/tolicodes/tolidates/assets/30080870/62943efa-d7c1-4047-ac49-920b9c0b88ff)
+![exotriever](/photos/exotriever.JPG)
 
 Loyal, adventurous, and playfully naughty. 
 
 My quirky exoskeleton might be your cup of tea—or not. Dare to find out? 🍵 
 
-### Passions & Play:
+### Passions & Play
 - 🤸‍♂️ Acro yoga and cuddle parties for connection.
 - 🎥 Creating obscure parody videos—nothing's off-limits.
 - 🐶 Promise, my cuddly and athletic Border Collie mix
