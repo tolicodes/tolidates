@@ -20,7 +20,7 @@ Reflecting on this question with friends, I recognized the flaw in my initial pr
 
 To those who believe I'm "commodifying" love, I want to share a different perspective. 
 
-My past romantic relationships have been pillars in my life, offering friendship, partnership, and unwavering support through my life's most daunting challenges. They have been my guiding stars, encouraging me to embrace my true self and to love that person. Together, we explored new hobbies, navigated workplace stress, shared laughter, overcame massive insecurities, and comforted each other in sorrow. Embracing them, the world faded away, but an illusion and that is a mere reflections of the Self.
+My past romantic relationships have been pillars in my life, offering friendship, partnership, and unwavering support through my life's most daunting challenges. They have been my guiding stars, encouraging me to embrace my true self and to love that person. Together, we explored new hobbies, navigated workplace stress, shared laughter, overcame massive insecurities, and comforted each other in sorrow. Embracing them, the world faded away, but an illusion, a mere reflections of the Self.
 
 The value of these relationships is immeasurable to me. I would have gladly invested $100,000 into each and every one of them.
 
