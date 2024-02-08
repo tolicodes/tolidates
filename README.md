@@ -1,11 +1,12 @@
-# Introduction
+# toli.love
+## Introduction
 Welcome to toli.love, where love meets creativity meets quirky autism. Inspired by [Mati Roy](https://www.facebook.com/mati.roy.09)'s groundbreaking idea of offering a [bounty](https://matiroy.com/writings/My-dating-profile.html) for finding a primary partner, I've decided to embark on a similar journey. Join me in this unique experiment of love and connection.
 
 
-# Bounty 
+## Bounty 
 I am offering a generous **$100,000** bounty to the person who introduces me to my primary partner. The bounty will be paid in installments, following a typical vesting schedule. Upon introducing me to a potential primary partner, we may begin dating. After a year, if we mutually decide to commit as primary partners, you will receive your first installment.
 
-# "Cringe"
+## "Cringe"
 When my project first made its debut on [HackerNews](https://news.ycombinator.com/item?id=36991616) in late December 2021, the feedback was unexpectedly harsh. Many labeled my approach as "cringe" with comments that reading about it made them "wish for a reset button on humanity," accusing me of "commercializing" love. At the time, I was baffled by the intensity of the backlash.
 
 Fast forward to February 2024, when a New York Times journalist approached Mati and me to discuss our initiative for a Valentine's Day feature. One question from her lingered in my mind:
@@ -22,17 +23,17 @@ My past romantic relationships have been pillars in my life, offering friendship
 
 The value of these relationships is immeasurable to me. I would have gladly invested $100,000 into each and every one of them.
 
-# Meet Toli
+## Meet Toli
 First off...a little about me!
 
 ![me](/photos/4.jpeg)
 
-## How do people Describe Me - 🐕 Exoskeleton Golden Retriever
+### How do people Describe Me - 🐕 Exoskeleton Golden Retriever
 Loyal, adventurous, and playfully naughty. 
 
 My quirky exoskeleton might be your cup of tea—or not. Dare to find out? 🍵 
 
-## Passions & Play
+### Passions & Play
 - 🤸‍♂️ Acro yoga and cuddle parties for connection.
 - 🎥 Creating obscure parody videos—nothing's off-limits.
 - 🐶 Promise, my cuddly and athletic Border Collie mix
@@ -41,17 +42,17 @@ My quirky exoskeleton might be your cup of tea—or not. Dare to find out? 🍵
 - 😡 I hold a grudge for max 1mo. Except for February
 - 🖥️ Proudly neurodivergent, pushing boundaries in frontend and prompt engineering at Dropbox.
 
-## Turn-ons:
+### Turn-ons:
 - 🎨 Creativity
 - 😜 not taking life too seriously.
 - 📃 read my 20m article on 100+ things that turn me on [sex.toli.love](https://sex.toli.love)
 
-## Sexuality
+### Sexuality
 Even though I identify as a straight cis male but embrace openness. I'm involved in kink, BDSM, cuddle, and poly communities, still exploring their meaning to me. 
 
 I value both emotional and physical intimacy and believe in diverse ways of loving. Open communication and assuming good intentions are crucial to me. I believe most conflicts arise from misunderstandings or differing desires, but I'm confident in finding creative solutions.
 
-# Also Looking For
+## Also Looking For
 
 - 💼 Work Opportunities: Seeking new challenges as a Senior/Staff Software Engineer [ToliCodes](https://tolicodes.com) 
 - 🪀 Activity Partners: Introduce me to something fun, new, and obscure!
@@ -59,11 +60,11 @@ I value both emotional and physical intimacy and believe in diverse ways of lovi
 - 🤸 AcroYoga Partner: Let's play regularly in Prospect Park.
 - 🐶 Pup Parents: My furry friend Promise wants some companions too.
 
-# The "Vesting Schedule"
-## 1 Year Cliff
+## The "Vesting Schedule"
+### 1 Year Cliff
 Upon introducing me to a prospective "primary partner", we may start dating. After a year we will mutualy decide if we would like to consider each other "primary partners", and your first installment will be paid
 
-## 4 Year Vesting Schedule
+### 4 Year Vesting Schedule
 As our relationship continues, you will be issued monthly payments for the first 4 years of the ongoing relationship.
 
 | Date | Event | Amount |
@@ -78,7 +79,7 @@ As our relationship continues, you will be issued monthly payments for the first
 | 1/5/2028 | Full Vest | $100,000.00 |
 
 
-## Profit Sharing - Bet On Us Succeeding
+### Profit Sharing - Bet On Us Succeeding
 As an alternative to the bounty, you can opt for a profit-sharing model based on our total net income. This model follows the same vesting schedule as the bounty but is calculated as a percentage of my net income.
 
 **The bounty is set at `10%` of my net income.**
@@ -117,7 +118,7 @@ Example of Growth:
 - Tax/Net Comp Multiplier: 0.6
 - Profit Sharing Multiplier  0.1 
 
-# Insta...ntly Fall In Love With This Adorable Dude
+## Insta...ntly Fall In Love With This Adorable Dude
 
 | ![Photo 1](/photos/1.PNG) | ![Photo 2](/photos/2.jpeg) | ![Photo 3](/photos/3.jpeg) |
 |-----------------------------|-----------------------------|-----------------------------|
