@@ -105,4 +105,12 @@ Total Bounty        |              | $100,000.00   | $60,000.00    | $120,000.00
 CONSTANTS
 Tax/Net Comp Multiplier | 0.6       |
 
-![Alt text](photos/67297509994__410AC541-8177-470D-94FF-389BFDC92AAA.fullsizerender.jpeg) ![Alt text](<photos/Image (1).jpeg>) ![Alt text](<photos/Image (2).jpeg>) ![Alt text](<photos/Image (3).jpeg>) ![Alt text](photos/Image.jpeg) ![Alt text](photos/IMG_0278.jpeg) ![Alt text](photos/IMG_0409.jpeg) ![Alt text](photos/IMG_0410.jpeg) ![Alt text](photos/IMG_0431.PNG) ![Alt text](photos/IMG_0433.PNG) ![Alt text](photos/IMG_0525.jpeg) ![Alt text](photos/IMG_0612.jpeg) ![Alt text](photos/IMG_0914.jpeg) ![Alt text](photos/IMG_0921.JPG) ![Alt text](photos/IMG_1212-edited.JPG) ![Alt text](photos/IMG_1297.jpeg) ![Alt text](photos/IMG_1426.jpeg) ![Alt text](photos/IMG_1647.jpeg) ![Alt text](photos/IMG_1850.PNG) ![Alt text](photos/IMG_6239.jpeg) ![Alt text](photos/IMG_6576.jpeg)
+## Photos
+
+| ![Photo 1](/photos/1.PNG) | ![Photo 2](/photos/2.jpeg) | ![Photo 3](/photos/3.jpeg) |
+|-----------------------------|-----------------------------|-----------------------------|
+| ![Photo 4](/photos/4.jpeg) | ![Photo 5](/photos/5.jpeg) | ![Photo 6](/photos/6.jpeg) |
+| ![Photo 7](/photos/7.jpeg) | ![Photo 8](/photos/8.JPG) | ![Photo 9](/photos/9.jpeg) |
+| ![Photo 10](/photos/10.jpeg) | ![Photo 11](/photos/11.jpeg) | ![Photo 12](/photos/12.PNG) |
+| ![Photo 13](/photos/13.PNG) | ![Photo 14](/photos/14.jpeg) | ![Photo 15](/photos/15.jpeg) |
+| ![Photo 16](/photos/16.jpeg) | ![Photo 17](/photos/17.jpeg) |                             |
