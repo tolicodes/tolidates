@@ -28,16 +28,16 @@ Despite each of these relationships coming to an end, the value of each of them 
 - **4-Year Vesting**: Should our relationship last beyond a year, you'll receive monthly payments ($2,083.33) for up to 4 years.
 
 ### Milestones
-| Date | Event | Amount |
-| --- | --- | --- |
-| 1/1/2024 | Introduction to potential partner | $0.00 |
-| 1/5/2024 | First Date | $0.00 |
-| 2/1/2024 | Dating | $0.00 |
-| 1/4/2025 | Breakup: No Bounty Issued | $0.00 |
-| 1/5/2025 | 1-year anniversary: Lump Sum | $25,000.00 |
-| 2/5/2025 | 13-month anniversary: Monthly Installment | $2,083.33 |
-| 6/5/2025 | Breakup: Month 18: Vesting Stops | $37,500.00 |
-| 1/5/2028 | Full Vest | $100,000.00 |
+| Date      | Event                                   | Amount      |
+|-----------|-----------------------------------------|-------------|
+| 1/1/2024  | Introduction to potential partner       | $0.00       |
+| 1/5/2024  | First Date                              | $0.00       |
+| 2/1/2024  | Dating                                  | $0.00       |
+| 1/4/2025  | Breakup: No Bounty Issued               | $0.00       |
+| 1/5/2025  | 1-year anniversary: Lump Sum            | $25,000.00  |
+| 2/5/2025  | 13-month anniversary: Monthly Installment| $2,083.33  |
+| 6/5/2025  | Breakup: Month 18: Vesting Stops        | $37,500.00  |
+| 1/5/2028  | Full Vest                               | $100,000.00 |
 
 ## Profit Sharing: Bet on Our Success
 Instead of a fixed bounty, you can opt for a profit-sharing agreement, calculated as a percentage of **my net income**, following the same vesting schedule.
