@@ -5,7 +5,7 @@ I am offering a generous `$100,000` bounty to the person who introduces me to my
 
 ## Do Dating Bounties Kill the Romance?
 ![me](/photos/21.jpeg)
-When my project first made its debut on [HackerNews](https://news.ycombinator.com/item?id=36991616) in late December 2021, the feedback was unexpectedly harsh. Many labeled my approach as "cringe" with comments that reading about it made them "wish for a reset button on humanity," accusing me of "commercializing" love. At the time, I was baffled by the intensity of the backlash.
+When my project first made its debut on [HackerNews](https://news.ycombinator.com/item?id=36991616) in late December 2021, the feedback was unexpectedly harsh. Many labeled my approach as "cringe" with comments like "reading this makes me wish for a reset button on humanity," and accusing me of "commercializing" love. At the time, I was baffled by the intensity of the backlash.
 
 Fast forward to February 2024, when a New York Times journalist approached Mati and me to discuss our initiative for a Valentine's Day feature. One question from her lingered in my mind:
 
@@ -13,13 +13,15 @@ Fast forward to February 2024, when a New York Times journalist approached Mati 
 
 Ironically, I've always considered myself profoundly romantic.
 
-Reflecting on this question with friends, I recognized the flaw in my initial presentation. I had overly emphasized the technicalities of the "vesting" schedule and my quirkiness and kinkiness, inadvertently sidelining the core of my being—the spiritual and romantic aspects that truly define me. These elements are far more significant to me than any eccentricity or novelty, and what truly make me an excellent partner.
+Reflecting on this question with friends, I recognized the flaw in my initial presentation. I had overly emphasized the technicalities of the "vesting" schedule and my quirkiness and kinkiness, inadvertently sidelining the core of my being—the spiritual and romantic aspects that truly define me. These elements are far more significant to me than any eccentricity or novelty, and what truly make me an awesome human.
 
 To those who believe I'm "commodifying" love, I want to share a different perspective. 
 
-My past romantic relationships have been pillars in my life, offering friendship, partnership, and unwavering support through my life's most daunting challenges. They have been my guiding stars, encouraging me to embrace my true self and to love that person. Together, we explored new hobbies, navigated workplace stress, shared laughter, overcame massive insecurities, and comforted each other in sorrow. Embracing them, the world faded away, but an illusion, a mere reflection of the Self.
+My past romantic relationships have been pillars in my life, offering friendship, partnership, and unwavering support through my life's most daunting challenges. They have been my guiding stars, encouraging me to embrace my true self and to love that person. Together, we explored new hobbies, navigated workplace stress, shared laughter, overcame massive insecurities, and comforted each other in sorrow. 
 
-The value of these relationships is immeasurable to me. I would have gladly invested $100,000 into each and every one of them.
+Together, we learned how to drop our egos, from a place we knew we were right, only to discover that we were wrong. Embracing them, the world faded away, but an illusion, a mere reflection of the Self.
+
+Despite each of these relationships coming to an end, the value of each of them is immeasurable to me. Knowing the pain and stuggle I would have to endure in each relationship, I would have done them all over again. And I would have gladly invested $100,000 into each and every one of them.
 
 ## The "Vesting Schedule"
 - **1-Year Cliff**: If you introduce me to someone and we become "primary partners" within a year, you receive a lump sum payment of 1/4th of the amount
