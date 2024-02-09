@@ -1,7 +1,7 @@
 title: toli.love
 description: Toli's Love Bounty
 
-theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes
 
 plugins:
 - jekyll-remote-theme 
