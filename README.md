@@ -1,7 +1,7 @@
 # toli.love
 
 ## The Bounty 
-I am offering a generous `$100,000` bounty to the person who introduces me to my "primary partner". The bounty will be paid in installments, following a typical vesting schedule. Upon introducing me to a potential primary partner, we may begin dating. After a year, if we mutually decide to commit as primary partners, you will receive your first installment. After that, you will be paid in prorated monthly installments, until the full $100,000 is paid out.
+I am offering a generous `$100,000` bounty to the person who introduces me to my "primary partner". The bounty will be paid in installments, following a typical vesting schedule. If after a year of introducing me to a potential primary partner, we mutually decide to commit as primary partners, you will receive your first installment. After that, you will be paid in prorated monthly installments, until the full $100,000 is paid out. T&C apply. See "Legaleze - Spirit of the Agreement" 👻
 
 ## Do Dating Bounties Kill the Romance?
 ![me](/photos/21.jpeg)
@@ -80,7 +80,7 @@ Instead of a fixed bounty, you can opt for a profit-sharing agreement, calculate
 - Profit Sharing Multiplier  0.1 (10%)
 
 ## About Toli
-### How do people Describe Me - 🐕 Exoskeleton Golden Retriever
+### How do people Describe Me - 🐕 Golden Retriever
 ![Photo 20](/photos/20.jpeg)
 Loyal, adventurous, and playfully naughty. 
 
@@ -134,7 +134,14 @@ I value both emotional and physical intimacy and believe in diverse ways of lovi
 | ![Photo 27](/photos/27.jpeg) | ![Photo 28](/photos/28.jpeg) |
 | ![Photo 29](/photos/29.jpeg) |                             |
 
-
 ## Inspiration
 Welcome to toli.love, where love meets creativity meets quirky autism. Inspired by [Mati Roy](https://www.facebook.com/mati.roy.09)'s groundbreaking idea of offering a [bounty](https://matiroy.com/writings/My-dating-profile.html) for finding a primary partner, I've decided to embark on a similar journey. Join me in this unique experiment of love and connection.
 
+## 👻 Legaleze - Spirit of the Agreement
+This arrangement is fundamentally based on trust, and while it is not immune to loopholes, our goal is to create a trusting environment that fosters high-quality, compatible connections. Profit sharing is designed to incentivize the matchmaker to remain a supportive presence in our lives, promoting both our personal development and financial prosperity. The agreement is deemed fulfilled when both my partner and I agree that its essence has been respected. For me, integrity is crucial, and I seek a partner who values their word as highly. The protection for the matchmaker is the social consequence of failing to honor our commitment in spirit, which could damage our standing within our social circle.
+
+The "spirit" of the bounty agreement takes on greater significance given my polyamorous lifestyle. A decade ago, my perspective on relationships was black and white: you experience sexual and romantic attraction, become partners, cohabit, merge finances, marry, get a dog, and maybe start a family. Over time, my views evolved from a black and white outlook to a multidimensional rainbow of possibilities. Even with sexuality, I don't fit neatly into categories like heterosexual, homosexual, or even bisexual. My feelings towards men completely differ from those towards women, embodying a unique form of attraction that eludes precise definition. Even amongst girls, my emotions and desires have a unique manifestation.
+
+Currently, I am in a relationship that hasn't been formally defined, akin to relationship anarchy. My partner maintains two other significant relationships and several lesser ones, each with its own dynamics. We also go to play parties, where relationships may last only a few hours. We share a lot but diverge on some desires. I aspire to live together, share finances, and pursue joint future objectives—desires not shared by her at this moment. Nonetheless, I strongly cherish our relationship, our mutual humor, support, and amazing sexual chemistry, including our shared kinks and general adventurousness. Every relationship I have is unique and irreplaceable. 
+
+For the purpose of the agreement, I will restrict the payout to a single individual, identified as my "primary partner," a status we will jointly decide upon after a year. The best definition I have is "the most significant long term relationship in my life"
