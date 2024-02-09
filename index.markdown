@@ -88,7 +88,7 @@ Instead of a fixed bounty, you can opt for a profit-sharing agreement, calculate
 
 ## About Toli
 ### Contact
-- toli@toli.love
+- toli@tolicodes.com
 
 ### How do people Describe Me - 🐕 Golden Retriever
 ![Photo 20](/photos/20.jpeg)
