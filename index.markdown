@@ -246,10 +246,22 @@ I value both emotional and physical intimacy and believe in diverse ways of lovi
 - 😜 not taking life too seriously.
 
 ## 🔗 Links
-- 📃 [sex.toli.love](http://sex.toli.love) - 100+ things that turn me on
-- 💼 [ToliCodes](https://tolicodes.com) - my more "professional" site
+Sex & Love
+- [sex.toli.love](http://sex.toli.love) - 100+ things that turn me on
+- [Rejection, Breakups, Vulnurability, and BDSM](https://tolicodes.medium.com/rejection-breakups-vulnurability-and-bdsm-b2f80b682373)
+- [Getting Back to Love](https://tolicodes.medium.com/getting-back-to-love-2942d026882b)
+
+Media
 - [How I Learned Empathy with Asperger's](https://www.youtube.com/watch?v=z1VNwapOb8E)
 - [Developer Happiness Podcast](https://podcasts.apple.com/pl/podcast/jsj-358-pickle-js-tooling-developer-happiness-anatoliy/id1237401284?i=1000433942248)
+
+💼 Work
+- [ToliCodes](https://tolicodes.com) - my more "professional" site
+- [CV](https://cv.tolicodes.com/)
+- [FE Infra Book](https://app.gitbook.com/o/-LMhlUf-UMFX2uvjDosv/s/Qjv7VWOPBlylQ9hVWf43/) - the ultimate guide to Frontend Interviews
+- [FB Ads Book](https://app.gitbook.com/o/-LMhlUf-UMFX2uvjDosv/s/sZUQ3XsB1L4UzzdE0TMd/)
+- [API Scraping](https://www.codementor.io/blog/api-scraping-5fq1gtd4ah)
+- [Scaling FE Teams - My HOVER Story](https://www.feinfra.com/success-failure-stories/scaling-fe-teams-my-hover-story)
 
 ##  🔍 Also Looking For
 - 💼 Work Opportunities: Seeking new challenges as a Senior/Staff Software Engineer [ToliCodes](https://tolicodes.com) 
