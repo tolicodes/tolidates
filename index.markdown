@@ -3,6 +3,8 @@ toc: true
 layout: single
 ---
 
+{% include head.html %}
+
 # toli.love
 
 ## The Bounty
