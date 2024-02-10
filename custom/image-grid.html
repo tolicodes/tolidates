@@ -1,21 +1,61 @@
-<div class="image-grid">
+<!-- Inside _layouts/default.html or similar -->
+
+<head>
+    <!-- Lightbox2 CSS -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
+    <!-- Lightbox2 JavaScript -->
+</head>
+
+
+
+<div class="image-gallery">
     {% for image in include.images %}
-    <div class="image">
-        <img src="{{ image }}" loading="lazy">
-    </div>
+      {% assign thumbnail_path = image.path | replace_first: '/photos', '/photos/thumbnails' %}
+      <a href="{{ image.path | prepend: site.baseurl }}" data-lightbox="gallery" data-title="View Image">
+        <img src="{{ thumbnail_path | prepend: site.baseurl }}" alt="Gallery Thumbnail" style="width: 100%; height: auto;">
+      </a>
     {% endfor %}
-</div>
+  </div>
+<!-- 
+<div class="image-gallery">
+    {% for image in include.images %}
+      <div class="gallery-item">
+        <img src="{{ image.path }}" alt="Gallery image" style="width: 100%; height: auto;">
+      </div>
+    {% endfor %}
+  </div> -->
+  
 
 <style>
-    .image-grid {
+    .image-gallery {
         display: grid;
-        grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+        grid-template-columns: 1fr;
+        /* Default to 1 column for small screens */
         gap: 10px;
     }
 
-    .image img {
+    @media (min-width: 600px) {
+
+        /* Adjust breakpoint as needed */
+        .image-gallery {
+            grid-template-columns: repeat(2, 1fr);
+            /* 2 columns for wider screens */
+        }
+    }
+
+    .image-gallery img {
         width: 100%;
         height: auto;
         display: block;
     }
 </style>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+
+<script>
+    lightbox.option({
+      'resizeDuration': 200,
+      'wrapAround': true,
+      'albumLabel': "Image %1 of %2"
+    })
+    </script>

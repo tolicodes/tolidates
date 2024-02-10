@@ -3,45 +3,118 @@ toc: true
 layout: single
 
 images:
-  - /photos/01.PNG
-  - /photos/02.jpeg
-  - /photos/03.jpeg
-  - /photos/04.jpeg
-  - /photos/05.jpeg
-  - /photos/06.jpeg
-  - /photos/07.jpeg
-  - /photos/08.JPG
-  - /photos/09.jpeg
-  - /photos/10.jpeg
-  - /photos/11.jpeg
-  - /photos/12.PNG
-  - /photos/13.PNG
-  - /photos/14.jpeg
-  - /photos/15.jpeg
-  - /photos/16.jpeg
-  - /photos/17.jpeg
-  - /photos/18.jpeg
-  - /photos/19.jpeg
-  - /photos/20.jpeg
-  - /photos/21.jpeg
-  - /photos/22.jpeg
-  - /photos/23.jpeg
-  - /photos/24.jpeg
-  - /photos/25.jpeg
-  - /photos/26.jpeg
-  - /photos/27.jpeg
-  - /photos/28.jpeg
-  - /photos/29.jpeg
-  - /photos/30.jpeg
-  - /photos/exotreiver.JPG
+- height: 1266
+  path: photos/04.jpeg
+  width: 585
+- height: 1304
+  path: photos/30.jpeg
+  width: 603
+- height: 720
+  path: photos/19.jpeg
+  width: 720
+- height: 1024
+  path: photos/32.jpeg
+  width: 768
+- height: 1024
+  path: photos/33.jpeg
+  width: 769
+- height: 1024
+  path: photos/31.jpeg
+  width: 769
+- height: 778
+  path: photos/28.jpeg
+  width: 778
+- height: 960
+  path: photos/21.jpeg
+  width: 960
+- height: 1024
+  path: photos/exotreiver.JPG
+  width: 1024
+- height: 1038
+  path: photos/18.jpeg
+  width: 1040
+- height: 1080
+  path: photos/29.jpeg
+  width: 1080
+- height: 1080
+  path: photos/20.jpeg
+  width: 1080
+- height: 1080
+  path: photos/27.jpeg
+  width: 1080
+- height: 1350
+  path: photos/22.jpeg
+  width: 1080
+- height: 1920
+  path: photos/17.jpeg
+  width: 1080
+- height: 1920
+  path: photos/03.jpeg
+  width: 1080
+- height: 1920
+  path: photos/16.jpeg
+  width: 1080
+- height: 1348
+  path: photos/08.JPG
+  width: 1229
+- height: 1847
+  path: photos/05.jpeg
+  width: 1242
+- height: 1614
+  path: photos/dog.jpg
+  width: 1278
+- height: 2778
+  path: photos/13.PNG
+  width: 1284
+- height: 2778
+  path: photos/01.PNG
+  width: 1284
+- height: 2778
+  path: photos/26.jpeg
+  width: 1284
+- height: 1440
+  path: photos/25.jpeg
+  width: 1440
+- height: 1440
+  path: photos/24.jpeg
+  width: 1440
+- height: 1440
+  path: photos/23.jpeg
+  width: 1440
+- height: 3088
+  path: photos/02.jpeg
+  width: 2316
+- height: 1284
+  path: photos/12.PNG
+  width: 2778
+- height: 4032
+  path: photos/06.jpeg
+  width: 3024
+- height: 2316
+  path: photos/11.jpeg
+  width: 3088
+- height: 3024
+  path: photos/09.jpeg
+  width: 4032
+- height: 3024
+  path: photos/10.jpeg
+  width: 4032
+- height: 3024
+  path: photos/15.jpeg
+  width: 4032
+- height: 3024
+  path: photos/14.jpeg
+  width: 4032
+- height: 3024
+  path: photos/07.jpeg
+  width: 4032
+
 
 ---
 
 {% include_relative custom/head.html %}
 
-# toli.love
-
-## The Bounty
+## 🏴‍☠️ The Bounty
 I am excited to announce a unique opportunity:
 
 > A `$100,000` bounty for anyone who successfully introduces me to my future primary partner. 
@@ -55,7 +128,7 @@ This bounty will be distributed according to a structured vesting schedule. Here
 This initiative is born out of a belief in the value and transformative power of deep, meaningful relationships and a desire to explore **innovative approaches to finding love**. It is an invitation to connect me with someone who could be an incredible match, and it's a commitment on my part to genuinely engage in this process.
 
 
-## Do Dating Bounties Kill the Romance?
+## 💔 Do Dating Bounties Kill the Romance?
 ![me](/photos/21.jpeg)
 When I initially shared my project on [HackerNews](https://news.ycombinator.com/item?id=36991616) (original post removed) in December 2021, the reaction was more intense than I had anticipated. Critics dismissed my approach as "cringe" and lamented the perceived "commercialization" of love, with some expressing a wish for a "reset button on humanity." after reading my article.
 
@@ -75,11 +148,11 @@ In these relationships, we learned the art of surrendering your ego, transitioni
 Though each relationship ultimately concluded, their significance in my life is beyond measure. Aware of the heartaches and challenges each would bring, I would still willingly embark on these journeys again without hesitation. Indeed, the investment of $100,000 into each relationship would have been a small price to pay for the invaluable experiences and lessons they provided.
 
 
-## The "Vesting Schedule"
+## ⏳ The "Vesting Schedule"
 - **1-Year Cliff**: If the introduction leads to a committed primary partnership within one year, the introducer will receive an initial payment, which is 1/4th of the total bounty amount (**$25,000**)
 - **4-Year Vesting Period**: Beyond the first year, should the relationship continue to thrive, the introducer will receive monthly installments amounting to $100,000/4/12 = **$2,083.33**. This extends up to the end of the fourth year from the date of the initial introduction, completing the full payment of the $100,000 bounty
 
-### Milestones and Payment Schedule
+### 🚩 Milestones and Payment Schedule
 
 | Date     | Event                                 | Amount      |
 |----------|---------------------------------------|-------------|
@@ -93,22 +166,21 @@ Though each relationship ultimately concluded, their significance in my life is 
 | 1/5/2028 | Full Vest                             | $100,000.00 |
 
 
-## Profit Sharing: A Stake in Our Success
+## 📈 Profit Sharing: A Stake in Our Success
 As an alternative to a fixed bounty, introducers may opt for a profit-sharing agreement, pegged at `10% of my net income``, adhering to the same vesting principles. This option is designed for those who believe in the long-term potential of our success, both personally and financially.
-
 
 - **Profit Sharing Percentage**: The bounty is set at `10% of my net income`, following the same vesting schedule as the fixed bounty.
 - **Income Snapshot**: My current income stands at approximately `$500,000 per year` gross, with a net income of around `$300,000 per year` net.
 
 
-### Scenarios
+### 🌈 Scenarios
 - **Pessimistic Scenario (Decrease)**: If my salary decreases to `$250,000` per year, the bounty would adjust accordingly.
 - **Average Scenario (Same)**: Assuming my salary remains steady at `$500,000`` per year.
 - **Optimistic Scenario (Increase)**: Should my salary increase to `$750,000 `per year, the bounty would increase proportionately.
 
 This option is designed for those who believe not just in the potential for a successful partnership but also in the financial growth and success that the future holds.
 
-### Past Extrapolations
+### 📈 Past Extrapolations
 * **2022 Salary**: `$180,000/yr` (at the time of publishing this site)
 * **Current 2024 Income**: `$500,000/yr gross`, `$300,000/yr net` (`2.7x growth` in 2 years!)
 * **2028 Income**: If it grows by `1.5x`, `$750,000.00 gross`, yielding a bounty of `$180,000`
@@ -119,7 +191,7 @@ This option is designed for those who believe not just in the potential for a su
 | Net Comp        | $150,000.00      | $300,000.00              | $450,000.00 |
 | Total Bounty    | $60,000.00               | $120,000.00 | $180,000.00 |
 
-### Projections
+### 🔮 Projections
 [Google Sheet](https://docs.google.com/spreadsheets/d/1KQWYpS4VEen7nV5DP9bkS4XUjSMyMtzXWWa3os5LsR4/edit#gid=0)
 
 | Date     | Mo | Event Description      | Fixed        | Pessimistic Path | Average Path (No Change) | Happy Path  |
@@ -133,26 +205,27 @@ This option is designed for those who believe not just in the potential for a su
 | 6/5/2025 | 17 | Month 18 (Breakup) | $35,416.67 | $21,250.00 | $42,500.00 | $63,750.00 |
 | 1/5/2028 | 48 | Full Vest | $100,000.00 | $60,000.00 | $120,000.00 | $180,000.00 |
 
-### CONSTANTS
+### 🔠 CONSTANTS
 - Tax/Net Comp Multiplier: 0.6
 - Profit Sharing Multiplier  0.1 (10%)
 
-## About Me - Discovering Toli
-### Contact
-- toli@toli.love
+## ❤️ About Me - Discovering Toli
+### 📞 Contact / Apply
+- [Fill Out Application](https://forms.gle/dQT1RffCWNo2Hkmi6)
+- General Inquiries toli@toli.love
 
-## My Motto
+## 💬 My Motto
 > Let me into your world and allow me to experience your magic. ✨
 
 
-### How do people Describe Me - 🐕 Golden Retriever
+### 🐕 How do people Describe Me - Golden Retriever
 ![me and Promise](/photos/dog.jpg)
 
 Loyal, adventurous, and playfully naughty. 
 
 I value both emotional and physical intimacy and believe in diverse ways of loving. Open communication and assuming good intentions are crucial to me. I believe most conflicts arise from misunderstandings or differing desires, but I'm confident in finding creative solutions.
 
-### Passions & Play
+### 🎲 Passions & Play
 ![Photo 24](/photos/24.jpeg) 
 
 - 🤸‍♂️ Acro yoga and cuddle parties for connection.
@@ -165,24 +238,25 @@ I value both emotional and physical intimacy and believe in diverse ways of lovi
 - 🎨 Creativity
 - 😜 not taking life too seriously.
 
-## Links
+## 🔗 Links
 - 📃 [sex.toli.love](http://sex.toli.love) - 100+ things that turn me on
 - 💼 [ToliCodes](https://tolicodes.com) - my more "professional" site
+- [How I Learned Empathy with Asperger's](https://www.youtube.com/watch?v=z1VNwapOb8E)
+- [Developer Happiness Podcast](https://podcasts.apple.com/pl/podcast/jsj-358-pickle-js-tooling-developer-happiness-anatoliy/id1237401284?i=1000433942248)
 
-## Also Looking For
+##  🔍 Also Looking For
 - 💼 Work Opportunities: Seeking new challenges as a Senior/Staff Software Engineer [ToliCodes](https://tolicodes.com) 
 - 🪀 Activity Partners: Introduce me to something fun, new, and obscure!
 - 🤣 Obscure Parody Video Partner - just because nobody else gets the reference, or...wants to get the reference, doesn't mean it shouldn't be parodied
 - 🤸 AcroYoga Partner: Let's play regularly in Prospect Park.
 - 🐶 Pup Parents: My furry friend Promise wants some companions too.
 
-## Insta...ntly Fall In Love
+## 📸 Insta...ntly Fall In Love
 
 {% include_relative custom/image-grid.html images=page.images %}
 
 
-
-## Inspiration
+## 🌟 Inspiration
 Welcome to toli.love, where love meets creativity meets quirky autism. Inspired by [Mati Roy](https://www.facebook.com/mati.roy.09)'s groundbreaking idea of offering a [bounty](https://matiroy.com/writings/My-dating-profile.html) for finding a primary partner, I've decided to embark on a similar journey. Join me in this unique experiment of love and connection.
 
 ## 👻 Legaleze - Spirit of the Agreement
@@ -196,7 +270,7 @@ At the heart of this unique bounty offer lies a foundation of trust. While ackno
 
 This arrangement is about more than just financial transactions; it's a commitment to exploring the depths of human connection, supported by a framework that values integrity, respect, and the transformative power of love.
 
-## FAQ
+## ❓ FAQ
 
 ### Agreement Fundamentals
 **Primary Partners Definition:**  
