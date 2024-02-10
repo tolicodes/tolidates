@@ -171,38 +171,49 @@ At the heart of this unique bounty offer lies a foundation of trust. While ackno
 
 - **Protection for the Matchmaker**: We rely on the social consequences of not honoring our commitment to act as a safeguard. This means that any failure to adhere to the spirit of the agreement could potentially affect our social reputation.
 
-- **Polyamorous Considerations**: The spirit of the bounty becomes even more significant given my polyamorous lifestyle, which embraces a wide spectrum of relationship dynamics. From traditional monogamous indicators of commitment to more fluid and evolving definitions of partnership, this agreement respects the diversity of love and connection.
-
-- **Primary Partner Definition**: For the purposes of this agreement, the payout is restricted to the individual who introduces me to what becomes my most significant long-term relationship, as jointly determined after a year. This relationship, above all others, will be considered the primary partnership under the terms of this bounty.
-
 - **Lost Job/Hardship**: In the event of job loss, reduced income, or financial hardship, the bounty payouts will be **temporarily suspended**. Once employment is resumed, payments will continue on a regular schedule, with the vesting period adjusted accordingly. For example, if there is a 6-month period of unemployment, the vesting schedule will extend to 4.5 years from the original end date.
 
 This arrangement is about more than just financial transactions; it's a commitment to exploring the depths of human connection, supported by a framework that values integrity, respect, and the transformative power of love.
 
 ## FAQ
-Creating a comprehensive FAQ section can help address potential concerns and clarify the terms of your unique bounty offer. Here are some suggested legal questions and answers to consider:
 
-### What constitutes becoming "primary partners" under this bounty agreement?
+### Agreement Fundamentals
+**Primary Partners Definition:**  
+*What constitutes becoming "primary partners" under this bounty agreement?*  
 Becoming "primary partners" is defined by a mutual decision to commit to a relationship that is considered the most significant and long-term above all others. This status is determined jointly by both parties involved after a year of the introduction.
 
-### How will the agreement address potential conflicts of interest, such as the introducer having a personal stake in the outcome?
-Should a conflict arrise, we will promptly address it, ensuring that the introduction and subsequent relationship development are conducted in good faith.
+**Polyamory Considerations:**
+*How does the bounty agreement accommodate Toli's polyamorous lifestyle?*
+The bounty agreement is designed with a deep understanding and respect for the diverse spectrum of relationship dynamics, including those characteristic of polyamory. It is inclusive of a range of commitments, from traditional monogamous ones to more fluid and evolving polyamorous partnerships, emphasizing a broad respect for the diversity of love and connection. 
 
-### Can someone receive a bounty for introducing themeselves?
-No.
+Specifically, the agreement stipulates that the bounty payout is exclusively for the individual who introduces me to a person with whom I establish a "primary partnership", or my most significant long-term relationship, as **mutually determined after a year**. This relationship, will be recognized as the primary partnership for the purposes of this bounty, reflecting the agreement's flexibility and its acknowledgment of various forms of relationships.
 
-### What if the primary partner was introduced by more than one person or some other ambiguous situation?
-In cases where multiple introducers claim to have facilitated the introduction to the primary partner, or the introduction is unclear (for example reading a newspaper article), the matched parties will individually evaluating the significance of each introduction's role and timing.
 
-### What happens if the relationship ends before the full $100,000 is paid out?
-If the relationship ends before the full amount is paid, the vesting schedule is halted, and no further payments will be made. The agreement specifies the conditions under which the payouts cease, emphasizing the importance of the relationship's longevity to the bounty's continuation.
+### Conflict Resolution
+**Conflicts of Interest:**  
+*How will the agreement address potential conflicts of interest, such as the introducer having a personal stake in the outcome?*  
+Should a conflict arise, we will promptly address it, ensuring that the introduction and subsequent relationship development are conducted in good faith. See "Spirit of the Agreement"
 
-### Are there any tax implications for the bounty payout?
-es, the bounty payout may have tax implications for both the payer and the recipient. It is advisable for both parties to consult with a tax professional to understand their tax liabilities and ensure compliance with tax laws.
+**Dispute Resolution:**  
+*In the case of a dispute, how will it be resolved?*  
+Both parties forfeit the right to formal mediation or arbitration and should privately address any conflicts that arise.
 
-### Can the bounty agreement be modified or canceled once it is in effect?
+**Modification and Cancellation:**  
+*Can the bounty agreement be modified or canceled once it is in effect?*  
 Any modifications or cancellations to the bounty agreement must be mutually agreed upon by all parties involved. The agreement will detail the process for making changes, ensuring transparency and fairness.
 
-### In the case of a dispute, how will it be resolved?
-Both parties forfeit the right to mediation or arbitration, and should privaly address any conflicts that arise.
+
+### Eligibility and Introduction Scenarios
+**Self-Introduction:**  
+*Can someone receive a bounty for introducing themselves?*  
+No.
+
+**Multiple Introducers:**  
+*What if the primary partner was introduced by more than one person or in some other ambiguous situation?*  
+In cases where multiple introducers claim to have facilitated the introduction to the primary partner, or the introduction is unclear (for example, reading a newspaper article), the matched parties will individually evaluate the significance of each introduction's role and timing to make a final decision.
+
+### Financial Aspects
+**End of Relationship:**  
+*What happens if the relationship ends before the full $100,000 is paid out?*  
+If the relationship ends before the full amount is paid, the vesting schedule is halted, and no further payments will be made. The agreement specifies the conditions under which the payouts cease, emphasizing the importance of the relationship's longevity to the bounty's continuation.
 
