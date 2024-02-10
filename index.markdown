@@ -3,7 +3,7 @@ toc: true
 layout: single
 ---
 
-{% includ_relative head.html %}
+{% include_relative custom/head.html %}
 
 # toli.love
 
