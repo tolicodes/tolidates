@@ -7,3 +7,5 @@ plugins:
 - jekyll-remote-theme 
 - jekyll-include-cache
 - gemfile
+
+minimal_mistakes_skin: "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
