@@ -6,10 +6,17 @@ layout: single
 # toli.love
 
 ## The Bounty
-I am offering a generous `$100,000` bounty to the person who introduces me to my "primary partner". The bounty will be paid in installments, following a typical vesting schedule. If after a year of introducing me to a potential primary partner, we mutually decide to commit as primary partners, you will receive your first installment. After that, you will be paid in prorated monthly installments, until the full $100,000 is paid out. T&C apply. See "Legaleze - Spirit of the Agreement" 👻
+I am excited to announce a unique opportunity: a $100,000 bounty for anyone who successfully introduces me to my future "primary partner". This bounty will be distributed according to a structured vesting schedule. Here’s how it works:
+
+- *Initial Commitment*: If, after one year from the introduction, both the introduced partner and I agree to commit to being primary partners, the introducer will receive the first installment of the bounty.
+- *Vesting Schedule*: Following the initial commitment, the remainder of the bounty will be paid out in equal monthly installments over the next three years, completing the full $100,000 payout.
+- *Terms and Conditions*: Specific terms and conditions apply to this offer, which are detailed in the “Legal - Spirit of the Agreement” section of this document. 👻
+
+This initiative is born out of a belief in the transformative power of deep, meaningful relationships and a desire to explore innovative approaches to finding love. It is an invitation to all to connect me with someone who could be an incredible match, and it’s a commitment on my part to genuinely engage in this process.
 
 ## Do Dating Bounties Kill the Romance?
 ![me](/photos/21.jpeg)
+
 When my project first made its debut on [HackerNews](https://news.ycombinator.com/item?id=36991616) in late December 2021, the feedback was unexpectedly harsh. Many labeled my approach as "cringe" with comments like "reading this makes me wish for a reset button on humanity," and accusing me of "commercializing" love. At the time, I was baffled by the intensity of the backlash.
 
 Fast forward to February 2024, when a New York Times journalist approached Mati and me to discuss our initiative for a Valentine's Day feature. One question from her lingered in my mind:
