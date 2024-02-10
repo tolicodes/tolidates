@@ -322,6 +322,6 @@ In cases where multiple introducers claim to have facilitated the introduction t
 If the relationship ends before the full amount is paid, the vesting schedule is halted, and no further payments will be made. The agreement specifies the conditions under which the payouts cease, emphasizing the importance of the relationship's longevity to the bounty's continuation.
 
 
-### 📞 Contact / Apply
+## 📞 Contact / Apply
 - [Fill Out Application](https://forms.gle/dQT1RffCWNo2Hkmi6)
 - General Inquiries toli@toli.love
