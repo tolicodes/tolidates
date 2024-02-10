@@ -157,7 +157,7 @@ I value both emotional and physical intimacy and believe in diverse ways of lovi
 | ![Photo 23](/photos/23.jpeg) | ![Photo 24](/photos/24.jpeg) |
 | ![Photo 25](/photos/25.jpeg) | ![Photo 26](/photos/26.jpeg) |
 | ![Photo 27](/photos/27.jpeg) | ![Photo 28](/photos/28.jpeg) |
-| ![Photo 29](/photos/29.jpeg) |                             |
+| ![Photo /29](/photos/29.jpeg) |                             |
 
 ## Inspiration
 Welcome to toli.love, where love meets creativity meets quirky autism. Inspired by [Mati Roy](https://www.facebook.com/mati.roy.09)'s groundbreaking idea of offering a [bounty](https://matiroy.com/writings/My-dating-profile.html) for finding a primary partner, I've decided to embark on a similar journey. Join me in this unique experiment of love and connection.
