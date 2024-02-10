@@ -127,6 +127,9 @@ Here's how it unfolds:
 - **Initial Commitment**: A year after the introduction, if we both decide to become primary partners, the introducer receives the first installment.
 - **Vesting Schedule**: The balance is paid in monthly installments over the next three years, rewarding the introducer for their part in a potentially life-changing connection.
 
+### 📞 Contact / Apply
+- [Fill Out Application](https://forms.gle/dQT1RffCWNo2Hkmi6)
+- General Inquiries toli@toli.love
 
 ## 💔 Do Dating Bounties Kill the Romance?
 ![me](/photos/21.jpeg)
