@@ -1,0 +1,21 @@
+<div class="image-grid">
+    {% for image in include.images %}
+    <div class="image">
+        <img src="{{ image }}" loading="lazy">
+    </div>
+    {% endfor %}
+</div>
+
+<style>
+    .image-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+        gap: 10px;
+    }
+
+    .image img {
+        width: 100%;
+        height: auto;
+        display: block;
+    }
+</style>

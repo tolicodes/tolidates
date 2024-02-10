@@ -1,6 +1,40 @@
 ---
 toc: true
 layout: single
+
+images:
+  - /photos/01.PNG
+  - /photos/02.jpeg
+  - /photos/03.jpeg
+  - /photos/04.jpeg
+  - /photos/05.jpeg
+  - /photos/06.jpeg
+  - /photos/07.jpeg
+  - /photos/08.JPG
+  - /photos/09.jpeg
+  - /photos/10.jpeg
+  - /photos/11.jpeg
+  - /photos/12.PNG
+  - /photos/13.PNG
+  - /photos/14.jpeg
+  - /photos/15.jpeg
+  - /photos/16.jpeg
+  - /photos/17.jpeg
+  - /photos/18.jpeg
+  - /photos/19.jpeg
+  - /photos/20.jpeg
+  - /photos/21.jpeg
+  - /photos/22.jpeg
+  - /photos/23.jpeg
+  - /photos/24.jpeg
+  - /photos/25.jpeg
+  - /photos/26.jpeg
+  - /photos/27.jpeg
+  - /photos/28.jpeg
+  - /photos/29.jpeg
+  - /photos/30.jpeg
+  - /photos/exotreiver.JPG
+
 ---
 
 {% include_relative custom/head.html %}
@@ -112,7 +146,7 @@ This option is designed for those who believe not just in the potential for a su
 
 
 ### How do people Describe Me - 🐕 Golden Retriever
-![Photo 20](/photos/20.jpeg)
+![me and Promise](/photos/dog.jpg)
 
 Loyal, adventurous, and playfully naughty. 
 
@@ -144,22 +178,9 @@ I value both emotional and physical intimacy and believe in diverse ways of lovi
 
 ## Insta...ntly Fall In Love
 
-| ![Photo 1](/photos/1.PNG) | ![Photo 2](/photos/2.jpeg) |
-|---------------------------|---------------------------|
-| ![Photo 3](/photos/3.jpeg) | ![Photo 4](/photos/4.jpeg) |
-| ![Photo 5](/photos/5.jpeg) | ![Photo 6](/photos/6.jpeg) |
-| ![Photo 7](/photos/7.jpeg) | ![Photo 8](/photos/8.JPG) |
-| ![Photo 9](/photos/9.jpeg) | ![Photo 10](/photos/10.jpeg) |
-| ![Photo 11](/photos/11.jpeg) | ![Photo 12](/photos/12.PNG) |
-| ![Photo 13](/photos/13.PNG) | ![Photo 14](/photos/14.jpeg) |
-| ![Photo 15](/photos/15.jpeg) | ![Photo 16](/photos/16.jpeg) |
-| ![Photo 17](/photos/17.jpeg) | ![Photo 18](/photos/18.jpeg) |
-| ![Photo 19](/photos/19.jpeg) | ![Photo 20](/photos/20.jpeg) |
-| ![Photo 21](/photos/21.jpeg) | ![Photo 22](/photos/22.jpeg) |
-| ![Photo 23](/photos/23.jpeg) | ![Photo 24](/photos/24.jpeg) |
-| ![Photo 25](/photos/25.jpeg) | ![Photo 26](/photos/26.jpeg) |
-| ![Photo 27](/photos/27.jpeg) | ![Photo 28](/photos/28.jpeg) |
-| ![Photo /29](/photos/29.jpeg) |                             |
+{% include_relative custom/image-grid.html images=page.images %}
+
+
 
 ## Inspiration
 Welcome to toli.love, where love meets creativity meets quirky autism. Inspired by [Mati Roy](https://www.facebook.com/mati.roy.09)'s groundbreaking idea of offering a [bounty](https://matiroy.com/writings/My-dating-profile.html) for finding a primary partner, I've decided to embark on a similar journey. Join me in this unique experiment of love and connection.
