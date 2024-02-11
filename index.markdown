@@ -341,3 +341,48 @@ If the relationship ends before the full amount is paid, the vesting schedule is
 ## 📞 Contact / Apply
 - [Fill Out Application](https://forms.gle/dQT1RffCWNo2Hkmi6)
 - General Inquiries toli@toli.love
+
+
+### Application Questions
+
+#### Compatibility & Values
+
+**Values & Habits**  
+- **Core Values:** How do you define your core values, and how do they guide your relationships?  
+- **Loyalty:** What does loyalty mean to you in the context of a romantic relationship?  
+- **Life Balance:** How do you perceive the balance between not taking life too seriously and addressing the serious aspects of a partnership?  
+- **Self-Growth:** How do you practice self-growth and encourage it in your partner?
+
+**Adventure, Play, Hobbies, and Creativity:**  
+- What role does adventure play in your life, and how do you incorporate it into your relationships?  
+- How do you feel about incorporating creativity into a relationship?  
+- Can you share examples of creative endeavors you enjoy?  
+- What do you like to do with your free time?
+
+#### Communication
+
+**Communication & Conflict:**  
+- Can you share your thoughts on open communication and how you practice it in your relationships? How do you approach conflict resolution, especially in the context of misunderstandings or differing desires?
+
+**Challenging Situations:**  
+- Describe a challenging situation you've faced in a relationship and how you navigated it.
+
+#### Relationship
+
+**Kink, BDSM, and Intimacy:**  
+- Describe your interest and experience with kink and BDSM. Are there specific practices or dynamics you're drawn to?  
+- How important is emotional and physical intimacy to you, and what are your expectations around it in a partnership?
+
+**Polyamory Views:**  
+- What are your views on polyamory and non-monogamy? Have you had any experiences in polyamorous relationships?
+
+**Shared Living & Finances:**  
+- In terms of shared living and finances, what's your ideal scenario or arrangement?
+
+**Unconventional Approach:**  
+- What draws you to the idea of being in a relationship that's initiated through an unconventional approach like a bounty system?
+
+#### Reflection & Compatibility
+
+**Mutual Compatibility:**  
+- Why do you believe you and I might be compatible, based on what you know about me and what you've shared about yourself?
