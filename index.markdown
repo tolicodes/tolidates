@@ -128,9 +128,7 @@ Here's how it unfolds:
 - **Vesting Schedule**: The balance is paid in monthly installments over the next three years, rewarding the introducer for their part in a potentially life-changing connection.
 
 ## 📞 Contact / Apply
-- [Nominate a Match](https://forms.gle/Wetfwxz8XdCruZdz8) - Suggest someone you think would be an excellent match for me. Limit to **3 referrals per person**. Quality over quantity please 😉
-- [Explore a Connection](https://forms.gle/dQT1RffCWNo2Hkmi6) - Interested in dating? Submit your application here.
-- For any questions or more information, reach out at toli@toli.love
+{% include_relative contact.md %}s
 
 ## 💔 Do Dating Bounties Kill the Romance?
 ![me](/photos/21.jpeg)
@@ -223,9 +221,7 @@ This option is designed for those who believe not just in the potential for a su
 Discovering Toli isn't just about reading a profile; it's about connecting with a person who values depth, creativity, and the myriad forms love can take. I'm on a quest not just for a partner but for shared experiences, growth, and the joy of discovery. Let's explore what magic we can create together.
 
 ### 📞 Contact / Apply
-- [Nominate a Match](https://forms.gle/Wetfwxz8XdCruZdz8) - Suggest someone you think would be an excellent match for me. Limit to **3 referrals per person**. Quality over quantity please 😉
-- [Explore a Connection](https://forms.gle/dQT1RffCWNo2Hkmi6) - Interested in dating? Submit your application here.
-- For any questions or more information, reach out at toli@toli.love
+{% include_relative contact.md %}
 
 ### 💬 My Motto
 > Let me into your world and allow me to experience your magic. ✨
@@ -344,13 +340,7 @@ In cases where multiple introducers claim to have facilitated the introduction t
 *What happens if the relationship ends before the full $100,000 is paid out?*  
 If the relationship ends before the full amount is paid, the vesting schedule is halted, and no further payments will be made. The agreement specifies the conditions under which the payouts cease, emphasizing the importance of the relationship's longevity to the bounty's continuation.
 
-
-### 📞 Contact / Apply
-- [Nominate a Match](https://forms.gle/Wetfwxz8XdCruZdz8) - Suggest someone you think would be an excellent match for me. Limit to **3 referrals per person**. Quality over quantity please 😉
-- [Explore a Connection](https://forms.gle/dQT1RffCWNo2Hkmi6) - Interested in dating? Submit your application here.
-- For any questions or more information, reach out at toli@toli.love
-
-### Application Questions
+## Application Questions
 
 #### Compatibility & Values
 
@@ -376,8 +366,7 @@ If the relationship ends before the full amount is paid, the vesting schedule is
 
 #### Relationship
 
-**Kink, BDSM, and Intimacy:**  
-- Describe your interest and experience with kink and BDSM. Are there specific practices or dynamics you're drawn to?  
+**Intimacy:**  
 - How important is emotional and physical intimacy to you, and what are your expectations around it in a partnership?
 
 **Polyamory Views:**  
@@ -393,3 +382,7 @@ If the relationship ends before the full amount is paid, the vesting schedule is
 
 **Mutual Compatibility:**  
 - Why do you believe you and I might be compatible, based on what you know about me and what you've shared about yourself?
+
+### 📞 Contact / Apply
+
+{% include_relative contact.md %}
