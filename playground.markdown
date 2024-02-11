@@ -5,7 +5,7 @@ toc: true
 toc_sticky: true
 ---
 
-{% include_relative custom/playground_head.html %}
+{% include_relative playground_head.md %}
 
 {% include_relative custom/subscribe-form.html %}
 

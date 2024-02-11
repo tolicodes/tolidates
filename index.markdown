@@ -132,11 +132,11 @@ Here's how it unfolds:
 
 ## [Toli's Playground](/playground)
 
-{% include_relative custom/playground_head.html %}
+{% include_relative playground_head.md %}
 
 {% include_relative custom/subscribe-form.html %}
 
-## 💔 Do Dating Bounties Kill the Romance?ee
+## 💔 Do Dating Bounties Kill the Romance?
 ![me](/photos/21.jpeg)
 
 Fascinated by the fusion of love and innovation, I've deeply considered the essence of romance in our digital era. 
