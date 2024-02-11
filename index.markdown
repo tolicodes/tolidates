@@ -271,6 +271,8 @@ Media
 💼 Work
 - [ToliCodes](https://tolicodes.com) - my more "professional" site
 - [CV](https://cv.tolicodes.com/)
+- [LinkedIn](https://www.linkedin.com/in/tolicodes/)
+
 - [FE Infra Book](https://app.gitbook.com/o/-LMhlUf-UMFX2uvjDosv/s/Qjv7VWOPBlylQ9hVWf43/) - the ultimate guide to Frontend Interviews
 - [FB Ads Book](https://app.gitbook.com/o/-LMhlUf-UMFX2uvjDosv/s/sZUQ3XsB1L4UzzdE0TMd/)
 - [API Scraping](https://www.codementor.io/blog/api-scraping-5fq1gtd4ah)
