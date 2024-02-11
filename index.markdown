@@ -127,7 +127,7 @@ Here's how it unfolds:
 - **Initial Commitment**: A year after the introduction, if we both decide to become primary partners, the introducer receives the first installment.
 - **Vesting Schedule**: The balance is paid in monthly installments over the next three years, rewarding the introducer for their part in a potentially life-changing connection.
 
-### 📞 Contact / Apply
+## 📞 Contact / Apply
 - [Nominate a Match](https://forms.gle/Wetfwxz8XdCruZdz8) - Suggest someone you think would be an excellent match for me. Limit to **3 referrals per person**. Quality over quantity please 😉
 - [Explore a Connection](https://forms.gle/dQT1RffCWNo2Hkmi6) - Interested in dating? Submit your application here.
 - For any questions or more information, reach out at toli@toli.love
