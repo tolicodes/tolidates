@@ -128,9 +128,21 @@ Here's how it unfolds:
 - **Vesting Schedule**: The balance is paid in monthly installments over the next three years, rewarding the introducer for their part in a potentially life-changing connection.
 
 ## 📞 Contact / Apply
-{% include_relative contact.md %}s
+{% include_relative contact.md %}
 
-## 💔 Do Dating Bounties Kill the Romance?
+## [Toli's Playground](/playground)
+Toli's **Play**ground is more than just inspiration—it's a catalyst for getting you into **action**. Immerse yourself in a lifelong adventure where you'll cast away doubts, tear down your walls of shame, and dive into life with open hearts and boundless excitement.
+
+Regardless of where you stand in your quest for love, we promise you a supportive community filled with kinky, quirky, and adrenaline-fueled people and experiences, all dedicated to helping you discover true love(s).
+
+In collaboration with a carefully chosen group of my favorite event organizers, we're rolling out weekly events in your city, designed for exploring your deepest desires and connecting with those you'll adore!
+
+The gates open in just 3 days! Ready for some mischief? 😈
+
+
+{% include_relative custom/subscribe-form.html %}
+
+## 💔 Do Dating Bounties Kill the Romance?ee
 ![me](/photos/21.jpeg)
 
 Fascinated by the fusion of love and innovation, I've deeply considered the essence of romance in our digital era. 
