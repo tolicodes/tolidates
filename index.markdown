@@ -244,8 +244,8 @@ I value both emotional and physical intimacy and believe in diverse ways of lovi
 - 🤸‍♂️ Acro yoga and cuddle parties for connection.
 - 🎥 Creating obscure parody videos—nothing's off-limits.
 - 🐶 Promise, my cuddly and athletic Border Collie mix
-- 🔗 Exploring kink, BDSM, and polyamory, touch and deep emotional, spiritual, and physical intimacy.
-- 🧠 Diving deep into consciousness, psychedelics, and AI discussions.
+- 💞 Open to exploring sex positivity and polyamory
+- 🧠 Diving deep into consciousness and AI discussions.
 - 😡 I hold a grudge for max 1mo. Except for February
 - 🖥️ Proudly neurodivergent, pushing boundaries in frontend and prompt engineering at Dropbox.
 - 🎨 Creativity
@@ -276,7 +276,7 @@ Media
 - [API Scraping](https://www.codementor.io/blog/api-scraping-5fq1gtd4ah)
 - [Scaling FE Teams - My HOVER Story](https://www.feinfra.com/success-failure-stories/scaling-fe-teams-my-hover-story)
 
-## 🚀 My Favorite Innovators in Sex and Love
+## 🚀 Expand Your Sexual Horizons
 - [Pagan's Paradise](https://www.pagansparadise.com/events-calendar) - A nurturing and safe space that encouraged me to explore and expand my boundaries, leading to many happy discoveries
 
 ## 📸 Insta...ntly Fall In Love
