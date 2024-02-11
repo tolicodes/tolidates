@@ -131,14 +131,8 @@ Here's how it unfolds:
 {% include_relative contact.md %}
 
 ## [Toli's Playground](/playground)
-Toli's **Play**ground is more than just inspiration—it's a catalyst for getting you into **action**. Immerse yourself in a lifelong adventure where you'll cast away doubts, tear down your walls of shame, and dive into life with open hearts and boundless excitement.
 
-Regardless of where you stand in your quest for love, we promise you a supportive community filled with kinky, quirky, and adrenaline-fueled people and experiences, all dedicated to helping you discover true love(s).
-
-In collaboration with a carefully chosen group of my favorite event organizers, we're rolling out weekly events in your city, designed for exploring your deepest desires and connecting with those you'll adore!
-
-The gates open in just 3 days! Ready for some mischief? 😈
-
+{% include_relative custom/playground_head.html %}
 
 {% include_relative custom/subscribe-form.html %}
 
@@ -351,6 +345,25 @@ In cases where multiple introducers claim to have facilitated the introduction t
 **End of Relationship:**  
 *What happens if the relationship ends before the full $100,000 is paid out?*  
 If the relationship ends before the full amount is paid, the vesting schedule is halted, and no further payments will be made. The agreement specifies the conditions under which the payouts cease, emphasizing the importance of the relationship's longevity to the bounty's continuation.
+
+## Toli FAQ?
+### About Me
+- Name: Anatoliy (Toli) Zaslavskiy
+- Date of Birth: June 22, 1992 (Age: 31)
+- Location: Brooklyn, NYC
+- Gender: Male (He/Him)
+
+### Polyamory
+My experience with polyamory has been a path of profound personal development. While I don't adhere to it as an unchangeable aspect of my identity, it has played a crucial role in my journey towards overcoming shame, setting healthy boundaries, asking for what I want, and dealing with co-dependency. The community around this lifestyle has been a guiding light towards a more enriching life.
+
+Ultimately, what's most important to me is cultivating a life enriched with quirkiness, joy, and adventurous fun, shared with those I hold close to my heart.
+
+### On the Topic of Children
+The question of whether I envision children in my future is one I approach with considerable thought and care. At this stage in my life, I'm focused on personal growth, achieving stability, and laying a strong foundation for the future. These priorities are important to me, not just for my own well-being, but also for the well-being of any potential family I might choose to start.
+
+I deeply value the responsibilities that come with parenthood and believe that bringing a child into the world is a decision that should be made with both heart and mind fully aligned. It's crucial to me that I'm in a position where I can offer the best possible environment for a child to grow, learn, and thrive.
+
+That said, I remain open to the possibilities the future may hold. I'm hopeful and excited about the journey ahead, including the potential of welcoming children into my life when the time feels right. Until then, I am committed to building a life filled with meaning, purpose, and readiness for whatever may come.
 
 ## Application Questions
 
