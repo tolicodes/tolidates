@@ -225,7 +225,7 @@ Discovering Toli isn't just about reading a profile; it's about connecting with 
 - [Fill Out Application](https://forms.gle/dQT1RffCWNo2Hkmi6)
 - General Inquiries toli@toli.love
 
-## 💬 My Motto
+### 💬 My Motto
 > Let me into your world and allow me to experience your magic. ✨
 
 
