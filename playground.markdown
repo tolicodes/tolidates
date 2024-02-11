@@ -9,7 +9,7 @@ toc_sticky: true
 
 {% include_relative custom/subscribe-form.html %}
 
-## Play Parties and Workshops
+## Sneak Preview - Play Parties and Workshops
 
 ### [Pagan's Paradise](https://www.pagansparadise.com/events-calendar) - NYC
 
