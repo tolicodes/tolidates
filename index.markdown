@@ -158,7 +158,7 @@ Each partnership, though it ended, left an indelible mark on my soul, priceless 
 
 Thus, this bounty extends an invitation for more than just companionship; it seeks a co-creator for a saga of adventure, growth, and heartfelt connection.
 
-## ⏳ The "Vesting Schedule"
+## [THE MATH] ⏳ The "Vesting Schedule" 
 - **One Year Cliff**: Celebrate our commitment with a `$25,000` acknowledgment to the introducer. (1/4th total bounty)
 - **Thereafter**: A monthly testament of `$2,083.33 over three years`, culminating in a full `$100,000` bounty, mirroring the growth and enrichment of our relationship.
 
@@ -176,7 +176,7 @@ Thus, this bounty extends an invitation for more than just companionship; it see
 | 1/5/2028 | Full Vest                             | $100,000.00 |
 
 
-## 📈 Profit Sharing: A Stake in Our Success
+### 📈 Profit Sharing: A Stake in Our Success
 Opting for profit sharing means believing in our collective future's potential. It's a `10%` share in my net income, a gesture of faith in not only the relationship's emotional success but its financial symbiosis as well.
 
 - **Profit Sharing Percentage**: The bounty is set at `10% of my net income`, following the same vesting schedule as the fixed bounty.
@@ -239,12 +239,15 @@ I value both emotional and physical intimacy and believe in diverse ways of lovi
 ### 🎲 Passions & Play
 ![Photo 24](/photos/24.jpeg) 
 
-- 🤸‍♂️ Acro yoga and cuddle parties for connection.
+- 🤸‍♂️ Acro yoga, cuddle parties and circling for connection.
 - 🎥 Creating obscure parody videos—nothing's off-limits.
-- 🐶 Promise, my cuddly and athletic Border Collie mix
-- 💞 Open to exploring sex positivity and polyamory
+- 🐶 Promise, my cuddly and athletic Border Collie mix.
+- 💞 Open to exploring sex positivity and polyamory.
 - 🧠 Diving deep into consciousness and AI discussions.
 - 😡 I hold a grudge for max 1mo. Except for February
+- 🏃‍♂️ Anything active - hiking, biking, swimming, jogging
+- 🌴 Traveling - but only to warm places please!! 
+  - 🇺🇸, 🇳🇮, 🇲🇽, 🇨🇷, 🇨🇦, 🇹🇿, 🇱🇷, 🇻🇳, 🇲🇾, 🇹🇭, 🇮🇱, 🇦🇺, 🇷🇺, 🇫🇮, 🇮🇹, 🇫🇷
 - 🖥️ Proudly neurodivergent, pushing boundaries in frontend and prompt engineering at Dropbox.
 - 🎨 Creativity
 - 😜 not taking life too seriously.
@@ -266,6 +269,8 @@ Media
 - [How I Learned Empathy with Asperger's](https://www.youtube.com/watch?v=z1VNwapOb8E)
 - [Developer Happiness Podcast](https://podcasts.apple.com/pl/podcast/jsj-358-pickle-js-tooling-developer-happiness-anatoliy/id1237401284?i=1000433942248)
 
+<iframe width="420" height="315" src="https://www.youtube.com/watch?v=z1VNwapOb8E" frameborder="0" allowfullscreen></iframe>
+
 💼 Work
 - [ToliCodes](https://tolicodes.com) - my more "professional" site
 - [CV](https://cv.tolicodes.com/)
@@ -275,9 +280,6 @@ Media
 - [FB Ads Book](https://app.gitbook.com/o/-LMhlUf-UMFX2uvjDosv/s/sZUQ3XsB1L4UzzdE0TMd/)
 - [API Scraping](https://www.codementor.io/blog/api-scraping-5fq1gtd4ah)
 - [Scaling FE Teams - My HOVER Story](https://www.feinfra.com/success-failure-stories/scaling-fe-teams-my-hover-story)
-
-## 🚀 Expand Your Sexual Horizons
-- [Pagan's Paradise](https://www.pagansparadise.com/events-calendar) - A nurturing and safe space that encouraged me to explore and expand my boundaries, leading to many happy discoveries
 
 ## 📸 Insta...ntly Fall In Love
 
