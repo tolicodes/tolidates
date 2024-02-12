@@ -260,16 +260,14 @@ I value both emotional and physical intimacy and believe in diverse ways of lovi
 - 🐶 Pup Parents: My furry friend Promise wants some companions too.
 
 ## 🔗 Links
-Sex & Love
+💌 Sex & Love
 - [sex.toli.love](http://sex.toli.love) - 100+ things that turn me on
 - [Rejection, Breakups, Vulnurability, and BDSM](https://tolicodes.medium.com/rejection-breakups-vulnurability-and-bdsm-b2f80b682373)
 - [Getting Back to Love](https://tolicodes.medium.com/getting-back-to-love-2942d026882b)
 
-Media
+▶️ Media
 - [How I Learned Empathy with Asperger's](https://www.youtube.com/watch?v=z1VNwapOb8E)
 - [Developer Happiness Podcast](https://podcasts.apple.com/pl/podcast/jsj-358-pickle-js-tooling-developer-happiness-anatoliy/id1237401284?i=1000433942248)
-
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=z1VNwapOb8E" frameborder="0" allowfullscreen></iframe>
 
 💼 Work
 - [ToliCodes](https://tolicodes.com) - my more "professional" site
@@ -280,6 +278,10 @@ Media
 - [FB Ads Book](https://app.gitbook.com/o/-LMhlUf-UMFX2uvjDosv/s/sZUQ3XsB1L4UzzdE0TMd/)
 - [API Scraping](https://www.codementor.io/blog/api-scraping-5fq1gtd4ah)
 - [Scaling FE Teams - My HOVER Story](https://www.feinfra.com/success-failure-stories/scaling-fe-teams-my-hover-story)
+
+## ▶️ Youtube Talk: How I Learned Empathy with Asperger's 
+(~8 years old)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z1VNwapOb8E?si=OgNhc63M7hsB7Edg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 📸 Insta...ntly Fall In Love
 
