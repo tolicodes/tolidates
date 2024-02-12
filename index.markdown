@@ -158,7 +158,7 @@ Each partnership, though it ended, left an indelible mark on my soul, priceless 
 
 Thus, this bounty extends an invitation for more than just companionship; it seeks a co-creator for a saga of adventure, growth, and heartfelt connection.
 
-## [THE MATH] ⏳ The "Vesting Schedule" 
+## ⏳ [THE MATH]  The "Vesting Schedule" 
 - **One Year Cliff**: Celebrate our commitment with a `$25,000` acknowledgment to the introducer. (1/4th total bounty)
 - **Thereafter**: A monthly testament of `$2,083.33 over three years`, culminating in a full `$100,000` bounty, mirroring the growth and enrichment of our relationship.
 
