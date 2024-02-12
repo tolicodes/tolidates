@@ -119,12 +119,13 @@ images:
 I'm thrilled to unveil an unconventional but heartfelt initiative: 
 > A $100,000 bounty for the soul who bridges me to my future primary partner.
 
-This project celebrates the transformative power of profound connections and employing financial rewards in a thoughtful, purposeful manner. 
-A quest for love, rooted in creativity and openness, this initiative extends an invitation to intertwine destinies in a narrative of growth, adventure, and heartfelt connection.
+This is a quest for love, rooted in creativity and openness, inviting us to weave our destinies together in a story of growth, adventure, and deep connection.
+
+This initiative highlights the transformative nature of meaningful relationships, using financial incentives in a deliberate and thoughtful way.
 
 Here's how it unfolds:
 
-- **Initial Commitment**: A year after the introduction, if we both decide to become primary partners, the introducer receives the first installment.
+- **Initial Commitment**: A year after the introduction, if we both decide to become primary partners, the introducer receives the first installment ($25,000)
 - **Vesting Schedule**: The balance is paid in monthly installments over the next three years, rewarding the introducer for their part in a potentially life-changing connection.
 
 ## 📞 Contact / Apply
@@ -148,11 +149,6 @@ Yet, a poignant question from a journalist in February 2024 made me reflect:
 > Do you think that this approach undermines the essence of romance in dating?
 
 Despite criticisms, my heart has always been rooted in romanticism. This journey isn't about commodifying love but seeking a unique, heartfelt connection aligned with my values. 
-
-
-Past relationships, with their profound bonds and growth, underscored the beauty of deep emotional and spiritual connection, teaching me the value of vulnerability and humility.
-
-These experiences, each a cornerstone of my life, have taught me the irreplaceable worth of love and connection, far exceeding any monetary value. This bounty is an invitation to an extraordinary shared narrative of adventure, growth, and profound connection.
 
 My past relationships have been the bedrock of my life, enriching me with unwavering friendship, support, and love. They've illuminated the path to self-acceptance and growth, as we embraced new passions and navigated life's myriad challenges together.
 
