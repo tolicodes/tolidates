@@ -130,7 +130,7 @@ Here's how it unfolds:
 ## 📞 Contact / Apply
 {% include_relative contact.md %}
 
-## 🛝 [Toli's Playground](/playground)
+## 🛝 [Call To Action](/playground)
 
 {% include_relative playground_head.md %}
 
