@@ -1,6 +1,6 @@
 ---
-toc: true
 layout: single
+toc: true
 toc_sticky: true
 
 images:
@@ -162,7 +162,7 @@ Thus, this bounty extends an invitation for more than just companionship; it see
 - **One Year Cliff**: Celebrate our commitment with a `$25,000` acknowledgment to the introducer. (1/4th total bounty)
 - **Thereafter**: A monthly testament of `$2,083.33 over three years`, culminating in a full `$100,000` bounty, mirroring the growth and enrichment of our relationship.
 
-### 🚩 Milestones and Payment Schedule
+**🚩 Milestones and Payment Schedule**
 
 | Date     | Event                                 | Amount      |
 |----------|---------------------------------------|-------------|
@@ -176,21 +176,21 @@ Thus, this bounty extends an invitation for more than just companionship; it see
 | 1/5/2028 | Full Vest                             | $100,000.00 |
 
 
-### 📈 Profit Sharing: A Stake in Our Success
+## 📈 Profit Sharing: A Stake in Our Success
 Opting for profit sharing means believing in our collective future's potential. It's a `10%` share in my net income, a gesture of faith in not only the relationship's emotional success but its financial symbiosis as well.
 
 - **Profit Sharing Percentage**: The bounty is set at `10% of my net income`, following the same vesting schedule as the fixed bounty.
 - **Income Snapshot**: My current income stands at approximately `$500,000 per year` gross, with a net income of around `$300,000 per year` net, or a `$120,000` bounty.
 
 
-### 🌈 Scenarios
+**🌈 Scenarios**
 - **Pessimistic Scenario (Decrease)**: If my salary decreases to `$250,000 per year`, the bounty would adjust accordingly.
 - **Average Scenario (Same)**: Assuming my salary remains steady at `$500,000` per year`.
 - **Optimistic Scenario (Increase)**: Should my salary increase to `$750,000 per year`, the bounty would increase proportionately.
 
 This option is designed for those who believe not just in the potential for a successful partnership but also in the financial growth and success that the future holds.
 
-### 📈 Past Extrapolations
+**📈 Past Extrapolations**
 * **2022 Salary**: `$180,000/yr` (at the time of publishing this site)
 * **Current 2024 Income**: `$500,000/yr gross`, `$300,000/yr net` (`2.7x growth in 2 years`!)
 * **2028 Income**: If it grows by `1.5x`, `$750,000.00 gross`, yielding a bounty of `$180,000`
@@ -201,7 +201,7 @@ This option is designed for those who believe not just in the potential for a su
 | Net Comp        | $150,000.00      | $300,000.00              | $450,000.00 |
 | Total Bounty    | $60,000.00               | $120,000.00 | $180,000.00 |
 
-### 🔮 Projections
+**🔮 Projections**
 [Google Sheet](https://docs.google.com/spreadsheets/d/1KQWYpS4VEen7nV5DP9bkS4XUjSMyMtzXWWa3os5LsR4/edit#gid=0)
 
 | Date     | Mo | Event Description      | Fixed        | Pessimistic Path | Average Path (No Change) | Happy Path  |
@@ -215,7 +215,7 @@ This option is designed for those who believe not just in the potential for a su
 | 6/5/2025 | 17 | Month 18 (Breakup) | $35,416.67 | $21,250.00 | $42,500.00 | $63,750.00 |
 | 1/5/2028 | 48 | Full Vest | $100,000.00 | $60,000.00 | $120,000.00 | $180,000.00 |
 
-### 🔠 CONSTANTS
+**  CONSTANTS**
 - Tax/Net Comp Multiplier: 0.6
 - Profit Sharing Multiplier  0.1 (10%)
 
@@ -249,7 +249,7 @@ I value both emotional and physical intimacy and believe in diverse ways of lovi
 - 🌴 Traveling - but only to warm places please!! 
   - 🇺🇸, 🇳🇮, 🇲🇽, 🇨🇷, 🇨🇦, 🇹🇿, 🇱🇷, 🇻🇳, 🇲🇾, 🇹🇭, 🇮🇱, 🇦🇺, 🇷🇺, 🇫🇮, 🇮🇹, 🇫🇷
 - 🖥️ Proudly neurodivergent, pushing boundaries in frontend and prompt engineering at Dropbox.
-- 🎨 Creativity
+- 🎨 Creativity.
 - 😜 not taking life too seriously.
 
 ##  🔍 Also Looking For
@@ -306,7 +306,8 @@ This arrangement is about more than just financial transactions; it's a commitme
 
 ## ❓ FAQ
 
-### Agreement Fundamentals
+**AGREEMENT FUNDAMENTALS**
+
 **Primary Partners Definition:**  
 *What constitutes becoming "primary partners" under this bounty agreement?*  
 Becoming "primary partners" is defined by a mutual decision to commit to a relationship that is considered the most significant and long-term above all others. This status is determined jointly by both parties involved after a year of the introduction.
@@ -318,7 +319,7 @@ The bounty agreement is designed with a deep understanding and respect for the d
 Specifically, the agreement stipulates that the bounty payout is exclusively for the individual who introduces me to a person with whom I establish a "primary partnership", or my most significant long-term relationship, as **mutually determined after a year**. This relationship, will be recognized as the primary partnership for the purposes of this bounty, reflecting the agreement's flexibility and its acknowledgment of various forms of relationships.
 
 
-### Conflict Resolution
+***CONFLICT RESOLUTION***
 **Conflicts of Interest:**  
 *How will the agreement address potential conflicts of interest, such as the introducer having a personal stake in the outcome?*  
 Should a conflict arise, we will promptly address it, ensuring that the introduction and subsequent relationship development are conducted in good faith. See "Spirit of the Agreement"
@@ -332,7 +333,7 @@ Both parties forfeit the right to formal mediation or arbitration and should pri
 Any modifications or cancellations to the bounty agreement must be mutually agreed upon by all parties involved. The agreement will detail the process for making changes, ensuring transparency and fairness.
 
 
-### Eligibility and Introduction Scenarios
+***ELIGIBILITY AND INTRODUCTION SCENARIOS***
 **Self-Introduction:**  
 *Can someone receive a bounty for introducing themselves?*  
 No.
@@ -341,24 +342,24 @@ No.
 *What if the primary partner was introduced by more than one person or in some other ambiguous situation?*  
 In cases where multiple introducers claim to have facilitated the introduction to the primary partner, or the introduction is unclear (for example, reading a newspaper article), the matched parties will individually evaluate the significance of each introduction's role and timing to make a final decision.
 
-### Financial Aspects
+***FINANCIAL ASPECTS**
 **End of Relationship:**  
 *What happens if the relationship ends before the full $100,000 is paid out?*  
 If the relationship ends before the full amount is paid, the vesting schedule is halted, and no further payments will be made. The agreement specifies the conditions under which the payouts cease, emphasizing the importance of the relationship's longevity to the bounty's continuation.
 
-## Toli FAQ?
-### About Me
+## Toli FAQ
+**About Me**
 - Name: Anatoliy (Toli) Zaslavskiy
 - Date of Birth: June 22, 1992 (Age: 31)
 - Location: Brooklyn, NYC
 - Gender: Male (He/Him)
 
-### Polyamory
+**Polyamory**
 My experience with polyamory has been a path of profound personal development. While I don't adhere to it as an unchangeable aspect of my identity, it has played a crucial role in my journey towards overcoming shame, setting healthy boundaries, asking for what I want, and dealing with co-dependency. The community around this lifestyle has been a guiding light towards a more enriching life.
 
 Ultimately, what's most important to me is cultivating a life enriched with quirkiness, joy, and adventurous fun, shared with those I hold close to my heart.
 
-### On the Topic of Children
+**On the Topic of Children**
 The question of whether I envision children in my future is one I approach with considerable thought and care. At this stage in my life, I'm focused on personal growth, achieving stability, and laying a strong foundation for the future. These priorities are important to me, not just for my own well-being, but also for the well-being of any potential family I might choose to start.
 
 I deeply value the responsibilities that come with parenthood and believe that bringing a child into the world is a decision that should be made with both heart and mind fully aligned. It's crucial to me that I'm in a position where I can offer the best possible environment for a child to grow, learn, and thrive.
@@ -367,7 +368,7 @@ That said, I remain open to the possibilities the future may hold. I'm hopeful a
 
 ## Application Questions
 
-#### Compatibility & Values
+**COMPATIBILITY & VALUES**
 
 **Values & Habits**  
 - **Core Values:** How do you define your core values, and how do they guide your relationships?  
@@ -381,7 +382,7 @@ That said, I remain open to the possibilities the future may hold. I'm hopeful a
 - Can you share examples of creative endeavors you enjoy?  
 - What do you like to do with your free time?
 
-#### Communication
+**COMMUNICATION**
 
 **Communication & Conflict:**  
 - Can you share your thoughts on open communication and how you practice it in your relationships? How do you approach conflict resolution, especially in the context of misunderstandings or differing desires?
@@ -389,7 +390,7 @@ That said, I remain open to the possibilities the future may hold. I'm hopeful a
 **Challenging Situations:**  
 - Describe a challenging situation you've faced in a relationship and how you navigated it.
 
-#### Relationship
+**RELATIONSHIP**
 
 **Intimacy:**  
 - How important is emotional and physical intimacy to you, and what are your expectations around it in a partnership?
@@ -403,7 +404,7 @@ That said, I remain open to the possibilities the future may hold. I'm hopeful a
 **Unconventional Approach:**  
 - What draws you to the idea of being in a relationship that's initiated through an unconventional approach like a bounty system?
 
-#### Reflection & Compatibility
+**REFLECTION & COMPATIBILITY**
 
 **Mutual Compatibility:**  
 - Why do you believe you and I might be compatible, based on what you know about me and what you've shared about yourself?
