@@ -137,6 +137,14 @@ Here's how it unfolds:
 
 {% include_relative custom/subscribe-form.html %}
 
+## As Seen In
+- [New York Times Valentines Day Edition Front Page](https://www.nytimes.com/2024/02/13/business/dating-bounty-roy-zaslavskiy.html)
+- [Winnepeg Sun](https://winnipegsun.com/news/world/two-millennials-post-dating-bounties-to-find-love/wcm/c2361ba8-41ea-4ec2-a3ab-99fde29db271/amp/)
+- [Daily Mail](https://www.dailymail.co.uk/news/article-13084001/amp/lonely-singles-dating-bounties-life-partner.html)
+- [Canoe](https://canoe.com/news/world/two-millennials-post-dating-bounties-to-find-love/wcm/c2361ba8-41ea-4ec2-a3ab-99fde29db271/amp/)
+- [Toronto Sun](https://torontosun.com/news/world/two-millennials-post-dating-bounties-to-find-love)
+- [Vancouver Sun](https://vancouversun.com/author/wspostmedianews/)
+
 ## 💔 Do Dating Bounties Kill the Romance?
 ![me](/photos/21.jpeg)
 
