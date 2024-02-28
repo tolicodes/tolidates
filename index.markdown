@@ -128,14 +128,12 @@ Here's how it unfolds:
 - **Initial Commitment**: A year after the introduction, if we both decide to become primary partners, the introducer receives the first installment ($25,000)
 - **Vesting Schedule**: The balance is paid in monthly installments over the next three years, rewarding the introducer for their part in a potentially life-changing connection.
 
+## ▶️ Youtube Talk: How I Learned Empathy with Asperger's 
+(~8 years old)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z1VNwapOb8E?si=OgNhc63M7hsB7Edg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## 📞 Contact / Apply
 {% include_relative contact.md %}
-
-## 🛝 [Call To Action](/playground)
-
-{% include_relative playground_head.md %}
-
-{% include_relative custom/subscribe-form.html %}
 
 ## As Seen In
 - [New York Times Valentines Day Edition Front Page](https://www.nytimes.com/2024/02/13/business/dating-bounty-roy-zaslavskiy.html)
@@ -287,14 +285,16 @@ I value both emotional and physical intimacy and believe in diverse ways of lovi
 - [API Scraping](https://www.codementor.io/blog/api-scraping-5fq1gtd4ah)
 - [Scaling FE Teams - My HOVER Story](https://www.feinfra.com/success-failure-stories/scaling-fe-teams-my-hover-story)
 
-## ▶️ Youtube Talk: How I Learned Empathy with Asperger's 
-(~8 years old)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/z1VNwapOb8E?si=OgNhc63M7hsB7Edg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 📸 Insta...ntly Fall In Love
 
 {% include_relative custom/image-grid.html images=page.images %}
 
+## 🛝 [Call To Action](/playground)
+
+{% include_relative playground_head.md %}
+
+{% include_relative custom/subscribe-form.html %}
 
 ## 🌟 Inspiration
 Welcome to toli.love, where love meets creativity meets quirky autism. Inspired by [Mati Roy](https://www.facebook.com/mati.roy.09)'s groundbreaking idea of offering a [bounty](https://matiroy.com/writings/My-dating-profile.html) for finding a primary partner, I've decided to embark on a similar journey. Join me in this unique experiment of love and connection.
