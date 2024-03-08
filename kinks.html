@@ -1,0 +1,176 @@
+---
+layout: default
+title: Kinks
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mui/3.7.1/js/mui.min.js" integrity="sha512-5LSZkoyayM01bXhnlp2T6+RLFc+dE4SIZofQMxy/ydOs3D35mgQYf6THIQrwIMmgoyjI+bqjuuj4fQcGLyJFYg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/mui/3.7.1/css/mui.css" integrity="sha512-5yrO4uuWdapRgZVCt/DvTia2c911nHL6P+hKWpjrlCjY95VzikgkTsFLwo+zd038zcB5Ys8oakrKawmEREIsSA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+</head>
+<body>
+
+<!-- Navigation -->
+<nav>
+    <div class="search-bar">
+        <!-- Search bar code here -->
+    </div>
+    <div class="filters">
+        <!-- Filters code here -->
+    </div>
+    <div class="priority-filters">
+        <!-- Priority filters code here -->
+    </div>
+    <div class="category-filters">
+        <!-- Category filters code here -->
+    </div>
+</nav>
+
+<!-- Main Content -->
+<main>
+    <div class="container">
+        {% for idea in site.data.kinks %}
+        <div class="card">
+            <div class="top-section">
+                <h2>{{ idea.idea_title }}</h2>
+                {% if idea.favorite %}
+                <span class="favorite">★</span>
+                {% endif %}
+                <span class="status {% if idea.status == 'done' %}done{% else %}todo{% endif %}">{{ idea.status }}</span>
+                
+            </div>
+            <div class="categories">
+                {% for category in idea.categories %}
+                <span class="category">{{ category }}</span>
+                {% endfor %}
+            </div>
+            <div class="description">
+                <p>{{ idea.idea_description | markdownify }}</p>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</main>
+
+</body>
+</html>
+
+<style>
+    /* Styles for Navigation */
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: #2196F3;
+    color: white;
+}
+
+.search-bar {
+    flex: 1;
+    margin-right: 10px;
+}
+
+.filters {
+    margin-right: 10px;
+}
+
+.priority-filters {
+    margin-right: 10px;
+}
+
+.category-filters {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/* Styles for Cards */
+.card {
+    background-color: #f0f0f0;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.card .top-section {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.card h2 {
+    margin-right: 10px;
+    margin-bottom: 0;
+}
+
+.card .favorite {
+    color: gold;
+    margin-right: 5px;
+}
+
+.card .status {
+    margin-right: 5px;
+    font-weight: bold;
+}
+
+.card .done {
+    color: green;
+}
+
+.card .todo {
+    color: yellow;
+}
+
+.card .categories {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card .categories .category {
+    background-color: #2196F3;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 20px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+.card .description p {
+    margin-top: 0;
+    color: black;
+}
+
+</style>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js" integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+<script>
+    $(document).ready(function() {
+    // Array of categories and corresponding colors
+    var categoryColors = {};
+
+    // Generate random color for each category
+    $('.category').each(function() {
+        var category = $(this).text();
+        var color = '#' + Math.floor(Math.random()*16777215).toString(16); // Random hex color
+        categoryColors[category] = color;
+    });
+
+    // Apply colors to category pills
+    $('.category').each(function() {
+        var category = $(this).text();
+        var color = categoryColors[category];
+        $(this).css('background-color', color);
+        $(this).css('color', 'white'); // Optional: Ensure text is readable
+    });
+});
+
+</script>
