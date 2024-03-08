@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 title: Kinks
 ---
 
@@ -10,24 +10,15 @@ title: Kinks
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title }}</title>
+
+    <script src="/assets/kinks.js"></script>
+    <link href="/assets/kinks.css" rel="stylesheet">
+
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Bootstrap Bundle with Popper.js -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
-
-
-    <!-- Hotjar Tracking Code for toli.love -->
-    <script>
-        (function (h, o, t, j, a, r) {
-            h.hj = h.hj || function () { (h.hj.q = h.hj.q || []).push(arguments) };
-            h._hjSettings = { hjid: 3898364, hjsv: 6 };
-            a = o.getElementsByTagName('head')[0];
-            r = o.createElement('script'); r.async = 1;
-            r.src = t + h._hjSettings.hjid + j + h._hjSettings.hjsv;
-            a.appendChild(r);
-        })(window, document, 'https://static.hotjar.com/c/hotjar-', '.js?sv=');
-    </script>
 </head>
 
 <body>
@@ -95,184 +86,3 @@ title: Kinks
 </body>
 
 </html>
-
-<style>
-    /* Styles for Navigation */
-    nav {
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-        padding: 10px;
-        background-color: #2196F3;
-        color: white;
-    }
-
-    .search-bar {
-        /* flex: 1; */
-        margin-right: 10px;
-        width: 300px;
-    }
-
-    .filters {
-        margin-right: 10px;
-    }
-
-    .priority-filters {
-        margin-right: 10px;
-    }
-
-    .category-filters {
-        display: flex;
-        flex-wrap: wrap;
-    }
-
-    /* Styles for Cards */
-    .card {
-        background-color: #f0f0f0;
-        border-radius: 8px;
-        padding: 20px;
-        margin-bottom: 20px;
-    }
-
-    .card .top-section {
-        display: flex;
-        align-items: center;
-        margin-bottom: 10px;
-    }
-
-    .card h2 {
-        margin-right: 10px;
-        margin-bottom: 0;
-    }
-
-    .card .favorite {
-        color: gold;
-        margin-right: 5px;
-    }
-
-    .card .status {
-        margin-right: 5px;
-        font-weight: bold;
-    }
-
-    .card .done {
-        color: green;
-    }
-
-    .card .todo {
-        color: yellow;
-    }
-
-    .card .categories {
-        display: flex;
-        flex-wrap: wrap;
-    }
-
-    .card .categories .category {
-        background-color: #2196F3;
-        color: white;
-        padding: 5px 10px;
-        border-radius: 20px;
-        margin-right: 5px;
-        margin-bottom: 5px;
-    }
-
-    .card .description p {
-        margin-top: 0;
-        color: black;
-    }
-
-    /* Example custom styling for pastel category badges */
-    .category-badge {
-        background-color: #a2d2ff;
-        /* Light blue pastel color, assign dynamically as needed */
-        color: #000;
-        /* Text color */
-    }
-
-    /* Custom styling for status badges */
-    .status-done {
-        color: #fff;
-        background-color: #28a745;
-        /* Bootstrap success color */
-    }
-
-    .status-todo {
-        color: #fff;
-        background-color: #6c757d;
-        /* Bootstrap secondary color */
-    }
-</style>
-
-<script>
-    document.addEventListener('DOMContentLoaded', function () {
-        const categories = document.querySelectorAll('.category');
-        const categoryCounts = {};
-        const categoryFiltersDiv = document.querySelector('.category-filters');
-
-        // Count each category occurrence
-        categories.forEach(el => {
-            const categoryText = el.textContent.trim();
-            categoryCounts[categoryText] = (categoryCounts[categoryText] || 0) + 1;
-        });
-
-        // Sort categories by occurrence and limit to top 20
-        const sortedCategories = Object.entries(categoryCounts).sort((a, b) => b[1] - a[1]).slice(0, 20);
-
-        // Generate filter buttons for each category
-        sortedCategories.forEach(([category, count], index) => {
-            const filterButton = document.createElement('button');
-            filterButton.className = 'btn btn-outline-primary m-1';
-            filterButton.textContent = `${category} (${count})`;
-
-            filterButton.addEventListener('click', function () {
-                document.querySelectorAll('.col').forEach(col => {
-                    const cardCategories = Array.from(col.querySelectorAll('.category')).map(el => el.textContent.trim());
-                    if (!cardCategories.includes(category)) {
-                        col.style.display = 'none';
-                    } else {
-                        col.style.display = '';
-                    }
-                });
-            });
-
-            categoryFiltersDiv.appendChild(filterButton);
-        });
-
-        // Optional: Add a 'Clear Filters' button to reset the view
-        const clearButton = document.createElement('button');
-        clearButton.className = 'btn btn-outline-secondary m-1';
-        clearButton.textContent = 'Clear Filters';
-        clearButton.addEventListener('click', () => {
-            document.querySelectorAll('.col').forEach(col => col.style.display = '');
-        });
-        categoryFiltersDiv.appendChild(clearButton);
-
-
-        // SEARCH
-
-        const searchInput = document.querySelector('.form-inline input[type="search"]');
-        const cards = document.querySelectorAll('.card');
-
-        searchInput.addEventListener('input', function () {
-            const searchQuery = this.value.toLowerCase();
-
-            cards.forEach(card => {
-                const title = card.querySelector('.card-title').textContent.toLowerCase();
-                const description = card.querySelector('.card-text').textContent.toLowerCase();
-                const categories = Array.from(card.querySelectorAll('.category')).map(el => el.textContent.toLowerCase());
-                const status = card.querySelector('.badge').textContent.toLowerCase();
-
-                // Combine all text content into one string for easier searching
-                const cardContent = [title, description, ...categories, status].join(' ');
-
-                // Check if the search query matches any part of the card's content
-                if (cardContent.includes(searchQuery)) {
-                    card.parentNode.style.display = ''; // Show the card
-                } else {
-                    card.parentNode.style.display = 'none'; // Hide the card
-                }
-            });
-        });
-    });
-</script>
