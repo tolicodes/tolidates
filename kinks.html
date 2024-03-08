@@ -5,172 +5,262 @@ title: Kinks
 
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title }}</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
 
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/mui/3.7.1/js/mui.min.js" integrity="sha512-5LSZkoyayM01bXhnlp2T6+RLFc+dE4SIZofQMxy/ydOs3D35mgQYf6THIQrwIMmgoyjI+bqjuuj4fQcGLyJFYg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/mui/3.7.1/css/mui.css" integrity="sha512-5yrO4uuWdapRgZVCt/DvTia2c911nHL6P+hKWpjrlCjY95VzikgkTsFLwo+zd038zcB5Ys8oakrKawmEREIsSA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <!-- Bootstrap Bundle with Popper.js -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
 
 </head>
+
 <body>
 
-<!-- Navigation -->
-<nav>
-    <div class="search-bar">
-        <!-- Search bar code here -->
-    </div>
-    <div class="filters">
-        <!-- Filters code here -->
-    </div>
-    <div class="priority-filters">
-        <!-- Priority filters code here -->
-    </div>
-    <div class="category-filters">
-        <!-- Category filters code here -->
-    </div>
-</nav>
+    <!-- Bootstrap CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/5.1.0/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Font Awesome -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet">
 
-<!-- Main Content -->
-<main>
-    <div class="container">
-        {% for idea in site.data.kinks %}
-        <div class="card">
-            <div class="top-section">
-                <h2>{{ idea.idea_title }}</h2>
-                {% if idea.favorite %}
-                <span class="favorite">★</span>
-                {% endif %}
-                <span class="status {% if idea.status == 'done' %}done{% else %}todo{% endif %}">{{ idea.status }}</span>
-                
+
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="container">
+            <!-- Search bar code here -->
+            <form class="form">
+                <input class="form-control search-bar" type="search" placeholder="Search" aria-label="Search">
+                <button class="btn btn-outline-primary" type="submit">Search</button>
+            </form>
+
+            <!-- Filters code here -->
+            <div class="filters">
+                <!-- Add your filters content here -->
             </div>
-            <div class="categories">
-                {% for category in idea.categories %}
-                <span class="category">{{ category }}</span>
-                {% endfor %}
+
+            <!-- Priority filters code here -->
+            <div class="priority-filters">
+                <!-- Add your priority filters content here -->
             </div>
-            <div class="description">
-                <p>{{ idea.idea_description | markdownify }}</p>
+
+            <!-- Category filters code here -->
+            <div class="category-filters">
+                <!-- Add your category filters content here -->
             </div>
         </div>
-        {% endfor %}
-    </div>
-</main>
+    </nav>
+
+    <!-- Main Content -->
+    <main>
+        <div class="container">
+            <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-3">
+                {% for idea in site.data.kinks %}
+                <div class="col">
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="card-title">{{ idea.idea_title }}</h5>
+                            {% if idea.favorite %}
+                            <span class="badge bg-warning text-dark">Favorite</span>
+                            {% endif %}
+                            <span class="badge bg-primary">{{ idea.status }}</span>
+                            <div class="card-text categories">
+                                {% for category in idea.categories %}
+                                <span class="category badge bg-secondary">{{ category }}</span>
+                                {% endfor %}
+                            </div>
+                            <p class="card-text">{{ idea.idea_description }}</p>
+                        </div>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    </main>
 
 </body>
+
 </html>
 
 <style>
     /* Styles for Navigation */
-nav {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 10px;
-    background-color: #2196F3;
-    color: white;
-}
+    nav {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 10px;
+        background-color: #2196F3;
+        color: white;
+    }
 
-.search-bar {
-    flex: 1;
-    margin-right: 10px;
-}
+    .search-bar {
+        /* flex: 1; */
+        margin-right: 10px;
+        width: 300px;
+    }
 
-.filters {
-    margin-right: 10px;
-}
+    .filters {
+        margin-right: 10px;
+    }
 
-.priority-filters {
-    margin-right: 10px;
-}
+    .priority-filters {
+        margin-right: 10px;
+    }
 
-.category-filters {
-    display: flex;
-    flex-wrap: wrap;
-}
+    .category-filters {
+        display: flex;
+        flex-wrap: wrap;
+    }
 
-/* Styles for Cards */
-.card {
-    background-color: #f0f0f0;
-    border-radius: 8px;
-    padding: 20px;
-    margin-bottom: 20px;
-}
+    /* Styles for Cards */
+    .card {
+        background-color: #f0f0f0;
+        border-radius: 8px;
+        padding: 20px;
+        margin-bottom: 20px;
+    }
 
-.card .top-section {
-    display: flex;
-    align-items: center;
-    margin-bottom: 10px;
-}
+    .card .top-section {
+        display: flex;
+        align-items: center;
+        margin-bottom: 10px;
+    }
 
-.card h2 {
-    margin-right: 10px;
-    margin-bottom: 0;
-}
+    .card h2 {
+        margin-right: 10px;
+        margin-bottom: 0;
+    }
 
-.card .favorite {
-    color: gold;
-    margin-right: 5px;
-}
+    .card .favorite {
+        color: gold;
+        margin-right: 5px;
+    }
 
-.card .status {
-    margin-right: 5px;
-    font-weight: bold;
-}
+    .card .status {
+        margin-right: 5px;
+        font-weight: bold;
+    }
 
-.card .done {
-    color: green;
-}
+    .card .done {
+        color: green;
+    }
 
-.card .todo {
-    color: yellow;
-}
+    .card .todo {
+        color: yellow;
+    }
 
-.card .categories {
-    display: flex;
-    flex-wrap: wrap;
-}
+    .card .categories {
+        display: flex;
+        flex-wrap: wrap;
+    }
 
-.card .categories .category {
-    background-color: #2196F3;
-    color: white;
-    padding: 5px 10px;
-    border-radius: 20px;
-    margin-right: 5px;
-    margin-bottom: 5px;
-}
+    .card .categories .category {
+        background-color: #2196F3;
+        color: white;
+        padding: 5px 10px;
+        border-radius: 20px;
+        margin-right: 5px;
+        margin-bottom: 5px;
+    }
 
-.card .description p {
-    margin-top: 0;
-    color: black;
-}
+    .card .description p {
+        margin-top: 0;
+        color: black;
+    }
 
+    /* Example custom styling for pastel category badges */
+    .category-badge {
+        background-color: #a2d2ff;
+        /* Light blue pastel color, assign dynamically as needed */
+        color: #000;
+        /* Text color */
+    }
+
+    /* Custom styling for status badges */
+    .status-done {
+        color: #fff;
+        background-color: #28a745;
+        /* Bootstrap success color */
+    }
+
+    .status-todo {
+        color: #fff;
+        background-color: #6c757d;
+        /* Bootstrap secondary color */
+    }
 </style>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js" integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-
 <script>
-    $(document).ready(function() {
-    // Array of categories and corresponding colors
-    var categoryColors = {};
+    document.addEventListener('DOMContentLoaded', function () {
+        const categories = document.querySelectorAll('.category');
+        const categoryCounts = {};
+        const categoryFiltersDiv = document.querySelector('.category-filters');
 
-    // Generate random color for each category
-    $('.category').each(function() {
-        var category = $(this).text();
-        var color = '#' + Math.floor(Math.random()*16777215).toString(16); // Random hex color
-        categoryColors[category] = color;
+        // Count each category occurrence
+        categories.forEach(el => {
+            const categoryText = el.textContent.trim();
+            categoryCounts[categoryText] = (categoryCounts[categoryText] || 0) + 1;
+        });
+
+        // Sort categories by occurrence and limit to top 20
+        const sortedCategories = Object.entries(categoryCounts).sort((a, b) => b[1] - a[1]).slice(0, 20);
+
+        // Generate filter buttons for each category
+        sortedCategories.forEach(([category, count], index) => {
+            const filterButton = document.createElement('button');
+            filterButton.className = 'btn btn-outline-primary m-1';
+            filterButton.textContent = `${category} (${count})`;
+
+            filterButton.addEventListener('click', function () {
+                document.querySelectorAll('.col').forEach(col => {
+                    const cardCategories = Array.from(col.querySelectorAll('.category')).map(el => el.textContent.trim());
+                    if (!cardCategories.includes(category)) {
+                        col.style.display = 'none';
+                    } else {
+                        col.style.display = '';
+                    }
+                });
+            });
+
+            categoryFiltersDiv.appendChild(filterButton);
+        });
+
+        // Optional: Add a 'Clear Filters' button to reset the view
+        const clearButton = document.createElement('button');
+        clearButton.className = 'btn btn-outline-secondary m-1';
+        clearButton.textContent = 'Clear Filters';
+        clearButton.addEventListener('click', () => {
+            document.querySelectorAll('.col').forEach(col => col.style.display = '');
+        });
+        categoryFiltersDiv.appendChild(clearButton);
+
+
+        // SEARCH
+
+        const searchInput = document.querySelector('.form-inline input[type="search"]');
+        const cards = document.querySelectorAll('.card');
+
+        searchInput.addEventListener('input', function () {
+            const searchQuery = this.value.toLowerCase();
+
+            cards.forEach(card => {
+                const title = card.querySelector('.card-title').textContent.toLowerCase();
+                const description = card.querySelector('.card-text').textContent.toLowerCase();
+                const categories = Array.from(card.querySelectorAll('.category')).map(el => el.textContent.toLowerCase());
+                const status = card.querySelector('.badge').textContent.toLowerCase();
+
+                // Combine all text content into one string for easier searching
+                const cardContent = [title, description, ...categories, status].join(' ');
+
+                // Check if the search query matches any part of the card's content
+                if (cardContent.includes(searchQuery)) {
+                    card.parentNode.style.display = ''; // Show the card
+                } else {
+                    card.parentNode.style.display = 'none'; // Hide the card
+                }
+            });
+        });
     });
-
-    // Apply colors to category pills
-    $('.category').each(function() {
-        var category = $(this).text();
-        var color = categoryColors[category];
-        $(this).css('background-color', color);
-        $(this).css('color', 'white'); // Optional: Ensure text is readable
-    });
-});
-
 </script>
