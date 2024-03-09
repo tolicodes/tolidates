@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', function () {
     // Generate filter buttons for each category
     sortedCategories.forEach(([category, count], index) => {
         const filterButton = document.createElement('button');
-        filterButton.className = 'btn btn-outline-primary m-1';
+        filterButton.className = 'btn btn-outline-primary m-1 filter-button';
         filterButton.textContent = `${category} (${count})`;
 
         filterButton.addEventListener('click', function () {
