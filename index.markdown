@@ -113,8 +113,6 @@ images:
 
 ---
 
-{% include_relative custom/head.html %}
-
 ## 🏴‍☠️ The Bounty
 I, Anatoliy (Toli) Zaslavskiy, am thrilled to unveil an unconventional but heartfelt initiative: 
 > A $100,000 bounty for the soul who bridges me to my future primary partner.
