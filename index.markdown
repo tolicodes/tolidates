@@ -1,5 +1,8 @@
 ---
 layout: single
+title: "❤️ Meet Toli"
+excerpt: "Playful golden retriever energy, curiosity, adventure, and connection."
+profile: true
 toc: true
 toc_sticky: true
 
@@ -113,6 +116,53 @@ images:
 
 ---
 
+<p class="profile-intro">Super snuggly, but will absolutely devour my prey. 🐶</p>
+
+<div class="profile-photos" aria-label="Photos of Toli">
+  <a href="/photos/profile/smile.jpg"><img src="/photos/profile/smile.jpg" alt="Toli laughing under a tree in a mustard-yellow jacket" width="768" height="1024" fetchpriority="high"></a>
+  <a href="/photos/profile/promise.jpg"><img src="/photos/profile/promise.jpg" alt="Toli cuddling Promise outdoors, upside down and grinning" width="768" height="1024"></a>
+  <a href="/photos/profile/beach.jpg"><img src="/photos/profile/beach.jpg" alt="Toli balancing on one leg at the beach in pink sunglasses" width="768" height="1024"></a>
+  <a href="/photos/profile/red-dress.jpg"><img src="/photos/profile/red-dress.jpg" alt="Toli smiling in a red dress beside heart balloons" width="665" height="1182" loading="lazy"></a>
+  <a href="/photos/profile/fire-acro.jpg"><img src="/photos/profile/fire-acro.jpg" alt="Toli and a partner doing acro with fire props" width="604" height="1304" loading="lazy"></a>
+  <a href="/photos/profile/portrait.jpg"><img src="/photos/profile/portrait.jpg" alt="Black-and-white portrait of Toli" width="768" height="1024" loading="lazy"></a>
+</div>
+
+## 😈 Kinky Me
+
+Playful golden retriever energy with a surprisingly wide range:
+
+- Turning “I probably shouldn’t tell you this” into tonight’s script 😨
+- Hazy, transcendent states where time dissolves 🫠
+- Hardcore CNC & sensory overwhelm 🤯
+- Streaming you playing clarinet on my d\*\*\* on Chaturbate (yes, really) 🎶
+
+## ❤️ Why I Kink
+
+I found kink with a partner seven years ago. We had no idea what we were doing, but we felt safe enough with each other to keep asking “what if?”, even—especially—if the answer was ridiculous. That’s still what kink is for me: admiration, curiosity, trust, and building something unique that only exists between us.
+
+## 🌲 PB Outside the Bedroom
+
+AcroYoga, Burner events, festivals, camping, psychology rabbit holes (I work in AI for mental health). I’m happiest building communities where people find purpose and a sense of home.
+
+Neuro🌶️, high-functioning autism.
+
+Also in my world:
+
+- 🐶 Promise, my cuddly and athletic Border Collie mix.
+- 🎥 Creating obscure parody videos—nothing’s off-limits.
+- 🏃‍♂️ Hiking, biking, swimming, jogging, and traveling somewhere warm.
+- 🤸‍♂️ Cuddle parties and circling for connection.
+
+> Let me into your world and allow me to experience your magic. ✨
+
+## 🙃 You
+
+You don’t take yourself too seriously. You’re playful, adventurous, curious, and brave enough to take smart risks and ask “What if?” You touch grass, repair instead of retreat, and PDA is non-negotiable. 🤗
+
+Open communication and assuming good intentions are crucial to me. I believe most conflicts arise from misunderstandings or differing desires, but I’m confident in finding creative solutions.
+
+[📞 Say hello or make an introduction](/contact)
+
 ## 🏴‍☠️ The Bounty
 I, Anatoliy (Toli) Zaslavskiy, am thrilled to unveil an unconventional but heartfelt initiative: 
 > A $100,000 bounty for the soul who bridges me to my future primary partner.
@@ -223,41 +273,7 @@ This option is designed for those who believe not just in the potential for a su
 - Tax/Net Comp Multiplier: 0.6
 - Profit Sharing Multiplier  0.1 (10%)
 
-## ❤️ About Me - Discovering Toli
-Discovering Toli isn't just about reading a profile; it's about connecting with a person who values depth, creativity, and the myriad forms love can take. I'm on a quest not just for a partner but for shared experiences, growth, and the joy of discovery. Let's explore what magic we can create together.
-
-### 📞 Contact / Apply
-{% include_relative contact.md %}
-
-### 💬 My Motto
-> Let me into your world and allow me to experience your magic. ✨
-
-
-### 🐕 How do people Describe Me - Golden Retriever
-![me and Promise](/photos/dog.jpg)
-
-Loyal, adventurous, and playfully naughty. 
-
-I value both emotional and physical intimacy and believe in diverse ways of loving. Open communication and assuming good intentions are crucial to me. I believe most conflicts arise from misunderstandings or differing desires, but I'm confident in finding creative solutions.
-
-### 🎲 Passions & Play
-![Photo 24](/photos/24.jpeg) 
-
-- 🤸‍♂️ Acro yoga, cuddle parties and circling for connection.
-- 🎥 Creating obscure parody videos—nothing's off-limits.
-- 🐶 Promise, my cuddly and athletic Border Collie mix.
-- 💞 Open to exploring sex positivity and polyamory.
-- 🧠 Diving deep into consciousness and AI discussions.
-- 😡 I hold a grudge for max 1mo. Except for February
-- 🏃‍♂️ Anything active - hiking, biking, swimming, jogging
-- 🌴 Traveling - but only to warm places please!! 
-  - 🇺🇸, 🇳🇮, 🇲🇽, 🇨🇷, 🇨🇦, 🇹🇿, 🇱🇷, 🇻🇳, 🇲🇾, 🇹🇭, 🇮🇱, 🇦🇺, 🇷🇺, 🇫🇮, 🇮🇹, 🇫🇷
-- 🖥️ Proudly neurodivergent, pushing boundaries in frontend and prompt engineering at Dropbox.
-- 🎨 Creativity.
-- 😜 not taking life too seriously.
-
 ##  🔍 Also Looking For
-- 💼 Work Opportunities: Seeking new challenges as a Senior/Staff Software Engineer [ToliCodes](https://tolicodes.com) 
 - 🪀 Activity Partners: Introduce me to something fun, new, and obscure!
 - 🤣 Obscure Parody Video Partner - just because nobody else gets the reference, or...wants to get the reference, doesn't mean it shouldn't be parodied
 - 🤸 AcroYoga Partner: Let's play regularly in Prospect Park.

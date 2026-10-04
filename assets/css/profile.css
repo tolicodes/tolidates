@@ -1,0 +1,45 @@
+.profile-intro {
+  font-size: 1.15em;
+  font-weight: 600;
+  line-height: 1.5;
+}
+
+.profile-photos {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.65rem;
+  margin: 1.5rem 0 2rem;
+}
+
+.profile-photos a {
+  display: block;
+  overflow: hidden;
+  border-radius: 0.5rem;
+}
+
+.profile-photos a:focus-visible {
+  outline: 3px solid #b60000;
+  outline-offset: 4px;
+}
+
+.profile-photos img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  aspect-ratio: 4 / 5;
+  object-fit: cover;
+  object-position: center;
+}
+
+@media (min-width: 600px) {
+  .profile-photos {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 1023px) {
+  /* Keep the introduction and photos first on phones and tablets. */
+  .page__content > .sidebar__right {
+    display: none;
+  }
+}
