@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "❤️ Meet Toli"
-excerpt: "Playful golden retriever energy, curiosity, adventure, and connection."
+description: "Playful golden retriever energy, curiosity, adventure, and connection."
 profile: true
 toc: true
 toc_sticky: true
