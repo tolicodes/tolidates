@@ -28,3 +28,7 @@ gem "webrick", "~> 1.8"
 
 gem "minimal-mistakes-jekyll"
 
+
+# Jekyll 3 needs these standard libraries explicitly on Ruby 3.4+.
+gem "csv", "~> 3.3"
+gem "logger", "~> 1.6"
