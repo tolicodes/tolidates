@@ -1,0 +1,19 @@
+<section class="profile-gallery" id="-instantly-fall-in-love" aria-label="Photos of Toli">
+  <div class="profile-photos">
+    {% for photo in site.data.profile_photos limit:6 %}
+    <a href="{{ photo.path | relative_url }}">
+      <img src="{{ photo.path | relative_url }}" alt="{{ photo.alt | escape }}" width="{{ photo.width }}" height="{{ photo.height }}" {% if forloop.first %}fetchpriority="high"{% else %}loading="lazy"{% endif %}>
+    </a>
+    {% endfor %}
+  </div>
+  <details class="profile-more">
+    <summary><span class="when-closed">Show {{ site.data.profile_photos.size | minus: 6 }} more photos</span><span class="when-open">Show fewer photos</span></summary>
+    <div class="profile-photos">
+      {% for photo in site.data.profile_photos offset:6 %}
+      <a href="{{ photo.path | relative_url }}">
+        <img src="{{ photo.path | relative_url }}" alt="{{ photo.alt | escape }}" width="{{ photo.width }}" height="{{ photo.height }}" loading="lazy">
+      </a>
+      {% endfor %}
+    </div>
+  </details>
+</section>

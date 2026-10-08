@@ -8,6 +8,10 @@
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 0.65rem;
+  margin: 0;
+}
+
+.profile-gallery {
   margin: 1.5rem 0 2rem;
 }
 
@@ -15,6 +19,7 @@
   display: block;
   overflow: hidden;
   border-radius: 0.5rem;
+  background: #f2f2f2;
 }
 
 .profile-photos a:focus-visible {
@@ -29,6 +34,61 @@
   aspect-ratio: 4 / 5;
   object-fit: cover;
   object-position: center;
+}
+
+.profile-more {
+  margin-top: 0.9rem;
+}
+
+.profile-more summary {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem;
+  min-height: 48px;
+  padding: 0.6rem 1rem;
+  border: 1px solid #d0d0d0;
+  border-radius: 0.5rem;
+  color: #9e2118;
+  font-size: 0.8rem;
+  font-weight: 600;
+  cursor: pointer;
+  list-style: none;
+}
+
+.profile-more summary::-webkit-details-marker {
+  display: none;
+}
+
+.profile-more summary::after {
+  content: "+";
+  font-size: 1.1rem;
+}
+
+.profile-more summary:hover {
+  background: #f8f8f8;
+}
+
+.profile-more summary:focus-visible {
+  outline: 3px solid #b60000;
+  outline-offset: 4px;
+}
+
+.profile-more .when-open,
+.profile-more[open] .when-closed {
+  display: none;
+}
+
+.profile-more[open] .when-open {
+  display: inline;
+}
+
+.profile-more[open] summary::after {
+  content: "−";
+}
+
+.profile-more[open] .profile-photos {
+  margin-top: 0.9rem;
 }
 
 @media (min-width: 600px) {

@@ -1,4 +1,14 @@
-Toli's Bouny site
+Toli's dating profile and bounty site
 [Markdown](/index.markdown)
 
-[Live](https://toli.love)
+[Live](https://love.toli.me)
+
+## Curated profile gallery — October 7, 2026
+
+The Jekyll homepage uses `_data/profile_photos.json` and `_includes/profile-gallery.html` for one curated gallery near the introduction. Six photographs appear initially; a native keyboard-accessible disclosure reveals eight more and can collapse them again. The grid has three columns at 600px and wider, and two columns on phones. Images retain meaningful alternate text, original aspect metadata and full-image links; later images load lazily. The existing theme supplies the image viewer.
+
+The 14 selected photographs emphasize a clear portrait, playful personality, activities, friends and Promise. The prior 35-entry lower gallery is removed from the homepage, including repeated photos, phone screenshots, weaker selfies and generated artwork. All original files remain in `photos/` and Git history for reversible future curation; this is display curation, not deletion. The older gallery fragment still targets the new gallery. Profile copy, contact details and bounty terms are unchanged.
+
+Local Jekyll rendering, image availability, desktop/phone layout, disclosure expansion/collapse and image-viewer behavior are checked before publishing through the existing Netlify project. Deployment and canonical live-browser verification are recorded separately from source implementation.
+
+Local verification: Jekyll 3.9.4 renders the curated data/template successfully; the 14 unique image paths exist, the old lower grid and its broken Lightbox2 dependency are absent, and the native disclosure expands by pointer and collapses with Enter. The theme viewer opens the full-size portrait with a 14-photo album. Phone-width rendering has two columns and no horizontal overflow. The local Ruby 3.4 environment uses an external QA Gemfile lock with Nokogiri 1.19.4; the repository production lock remains unchanged at 1.16.2. The connected Netlify build must verify that production dependency set before completion.
