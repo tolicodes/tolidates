@@ -17,6 +17,27 @@ I make obscure parody videos and love asking “What if?”—especially when th
 
 That playful energy shows up in AcroYoga, festivals, and the communities I build. I’m happiest helping people find purpose and a sense of home. Bring me into your world, too—let’s experience each other’s magic. ✨
 
+## ✍️ Writing & Wonder
+
+A few of my most-clapped essays on connection, vulnerability, and the stories we tell ourselves.
+
+<div class="profile-writing">
+  <a class="profile-essay" href="https://tolicodes.medium.com/energy-cords-and-foreign-energy-in-your-aura-7bae5ac3c57c">
+    <span class="profile-essay-title">Energy Cords &amp; Foreign Energy in Your Aura <span aria-hidden="true">↗</span></span>
+    <span class="profile-essay-description">My spiritual take on emotional attachments, other people’s influence, and choosing what to let go.</span>
+  </a>
+  <a class="profile-essay" href="https://tolicodes.medium.com/rejection-breakups-vulnurability-and-bdsm-b2f80b682373">
+    <span class="profile-essay-title">Rejection, Breakups, Vulnerability &amp; BDSM <span aria-hidden="true">↗</span></span>
+    <span class="profile-essay-description">Learning to ask for what I want, face rejection, and explore trust without closing myself off to love.</span>
+  </a>
+  <a class="profile-essay" href="https://tolicodes.medium.com/why-we-focus-on-the-negative-and-how-its-keeping-us-from-happiness-da2224de0899">
+    <span class="profile-essay-title">Why We Focus on the Negative <span aria-hidden="true">↗</span></span>
+    <span class="profile-essay-description">My reflections on noticing thoughts, separating facts from stories, and making room for gratitude.</span>
+  </a>
+</div>
+
+[Explore all my writing on Medium →](https://tolicodes.medium.com/)
+
 {% include profile-gallery.html %}
 
 ## 😈 Kinky Me

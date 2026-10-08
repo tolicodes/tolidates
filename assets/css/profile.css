@@ -29,6 +29,49 @@
   min-height: 76px;
 }
 
+.profile-writing {
+  display: grid;
+  gap: 0.65rem;
+  margin: 1rem 0;
+}
+
+.page__content a.profile-essay {
+  display: block;
+  padding: 0.8rem 1rem;
+  border: 1px solid #e9dfdb;
+  border-radius: 0.5rem;
+  background: #fcf8f6;
+  color: #86251d;
+  text-decoration: none;
+}
+
+.profile-essay-title,
+.profile-essay-description {
+  display: block;
+}
+
+.profile-essay-title {
+  font-weight: 700;
+  line-height: 1.35;
+}
+
+.profile-essay-description {
+  margin-top: 0.35rem;
+  color: #494949;
+  font-size: 0.8em;
+  line-height: 1.5;
+}
+
+.page__content a.profile-essay:hover {
+  border-color: #b67468;
+  background: #f8eeea;
+}
+
+.profile-essay:focus-visible {
+  outline: 3px solid #b60000;
+  outline-offset: 4px;
+}
+
 .profile-photos {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
