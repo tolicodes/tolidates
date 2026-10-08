@@ -11,6 +11,12 @@ toc_sticky: true
 <div class="profile-portrait"><img class="profile-face" src="/photos/profile/yellow-coat.jpg" alt="Toli in a yellow coat by a sunny window" width="112" height="112" fetchpriority="high"></div>
 <p class="profile-intro">Super snuggly, but will absolutely devour my prey.&nbsp;🐶</p>
 
+## 🎨 Creative & Playful
+
+I make obscure parody videos and love asking “What if?”—especially when the idea is a little ridiculous. I’m looking for someone who wants to play along, bring their own strange ideas, and create something unique together.
+
+That playful energy shows up in AcroYoga, festivals, and the communities I build. I’m happiest helping people find purpose and a sense of home. Bring me into your world, too—let’s experience each other’s magic. ✨
+
 {% include profile-gallery.html %}
 
 ## 😈 Kinky Me
@@ -28,14 +34,13 @@ I found kink with a partner seven years ago. We had no idea what we were doing, 
 
 ## 🌲 PB Outside the Bedroom
 
-AcroYoga, Burner events, festivals, camping, psychology rabbit holes (I work in AI for mental health). I’m happiest building communities where people find purpose and a sense of home.
+AcroYoga, Burner events, festivals, camping, psychology rabbit holes (I work in AI for mental health).
 
 Neuro🌶️, high-functioning autism.
 
 Also in my world:
 
 - 🐶 Promise, my cuddly and athletic Border Collie mix.
-- 🎥 Creating obscure parody videos—nothing’s off-limits.
 - 🏃‍♂️ Hiking, biking, swimming, jogging, and traveling somewhere warm.
 - 🤸‍♂️ Cuddle parties and circling for connection.
 
