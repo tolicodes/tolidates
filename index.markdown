@@ -8,7 +8,7 @@ toc_sticky: true
 
 ---
 
-<div class="profile-portrait"><img class="profile-face" src="/photos/profile/smile.jpg" alt="Toli smiling" width="112" height="112" fetchpriority="high"></div>
+<div class="profile-portrait"><img class="profile-face" src="/photos/profile/yellow-coat.jpg" alt="Toli in a yellow coat by a sunny window" width="112" height="112" fetchpriority="high"></div>
 <p class="profile-intro">Super snuggly, but will absolutely devour my prey.&nbsp;🐶</p>
 
 {% include profile-gallery.html %}
