@@ -1,7 +1,32 @@
+.page__inner-wrap {
+  position: relative;
+}
+
+.page .page__inner-wrap .page__content {
+  position: static;
+}
+
+.page__inner-wrap > header {
+  padding-right: 136px;
+}
+
+.profile-face {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 112px;
+  height: 112px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: center 38%;
+}
+
 .profile-intro {
   font-size: 1.15em;
   font-weight: 600;
   line-height: 1.5;
+  padding-right: 136px;
+  min-height: 76px;
 }
 
 .profile-photos {
@@ -101,5 +126,21 @@
   /* Keep the introduction and photos first on phones and tablets. */
   .page__content > .sidebar__right {
     display: none;
+  }
+}
+
+@media (max-width: 599px) {
+  .profile-face {
+    width: 76px;
+    height: 76px;
+  }
+
+  .page__inner-wrap > header,
+  .profile-intro {
+    padding-right: 96px;
+  }
+
+  .profile-intro {
+    min-height: 0;
   }
 }

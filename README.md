@@ -12,3 +12,7 @@ The 14 selected photographs emphasize a clear portrait, playful personality, act
 Local Jekyll rendering, image availability, desktop/phone layout, disclosure expansion/collapse and image-viewer behavior are checked before publishing through the existing Netlify project. Deployment and canonical live-browser verification are recorded separately from source implementation.
 
 Local verification: Jekyll 3.9.4 renders the curated data/template successfully; the 14 unique image paths exist, the old lower grid and its broken Lightbox2 dependency are absent, and the native disclosure expands by pointer and collapses with Enter. The theme viewer opens the full-size portrait with a 14-photo album. Phone-width rendering has two columns and no horizontal overflow. The local Ruby 3.4 environment uses an external QA Gemfile lock with Nokogiri 1.19.4; the repository production lock remains unchanged at 1.16.2. The connected Netlify build must verify that production dependency set before completion.
+
+## Intro portrait — October 7, 2026
+
+The smiling photograph also appears as a circular portrait at the top right of the introduction beside “Meet Toli.” The profile stylesheet anchors it to the introductory content and reserves space in the title and text, using 112px on desktop and 76px on phones. The same original photo stays in the 14-photo gallery; no image files or gallery disclosure behavior change. Desktop/phone placement, loading and overlap checks precede publication; the live deployment is verified separately.
