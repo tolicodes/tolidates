@@ -6,39 +6,126 @@ profile: true
 toc: true
 toc_sticky: true
 
+images:
+- height: 1266
+  path: photos/04.jpeg
+  width: 585
+- height: 1304
+  path: photos/30.jpeg
+  width: 603
+- height: 720
+  path: photos/19.jpeg
+  width: 720
+- height: 1024
+  path: photos/32.jpeg
+  width: 768
+- height: 1024
+  path: photos/33.jpeg
+  width: 769
+- height: 1024
+  path: photos/31.jpeg
+  width: 769
+- height: 778
+  path: photos/28.jpeg
+  width: 778
+- height: 960
+  path: photos/21.jpeg
+  width: 960
+- height: 1024
+  path: photos/exotreiver.JPG
+  width: 1024
+- height: 1038
+  path: photos/18.jpeg
+  width: 1040
+- height: 1080
+  path: photos/29.jpeg
+  width: 1080
+- height: 1080
+  path: photos/20.jpeg
+  width: 1080
+- height: 1080
+  path: photos/27.jpeg
+  width: 1080
+- height: 1350
+  path: photos/22.jpeg
+  width: 1080
+- height: 1920
+  path: photos/17.jpeg
+  width: 1080
+- height: 1920
+  path: photos/03.jpeg
+  width: 1080
+- height: 1920
+  path: photos/16.jpeg
+  width: 1080
+- height: 1348
+  path: photos/08.JPG
+  width: 1229
+- height: 1847
+  path: photos/05.jpeg
+  width: 1242
+- height: 1614
+  path: photos/dog.jpg
+  width: 1278
+- height: 2778
+  path: photos/13.PNG
+  width: 1284
+- height: 2778
+  path: photos/01.PNG
+  width: 1284
+- height: 2778
+  path: photos/26.jpeg
+  width: 1284
+- height: 1440
+  path: photos/25.jpeg
+  width: 1440
+- height: 1440
+  path: photos/24.jpeg
+  width: 1440
+- height: 1440
+  path: photos/23.jpeg
+  width: 1440
+- height: 3088
+  path: photos/02.jpeg
+  width: 2316
+- height: 1284
+  path: photos/12.PNG
+  width: 2778
+- height: 4032
+  path: photos/06.jpeg
+  width: 3024
+- height: 2316
+  path: photos/11.jpeg
+  width: 3088
+- height: 3024
+  path: photos/09.jpeg
+  width: 4032
+- height: 3024
+  path: photos/10.jpeg
+  width: 4032
+- height: 3024
+  path: photos/15.jpeg
+  width: 4032
+- height: 3024
+  path: photos/14.jpeg
+  width: 4032
+- height: 3024
+  path: photos/07.jpeg
+  width: 4032
+
+
 ---
 
-<div class="profile-portrait"><img class="profile-face" src="/photos/profile/yellow-coat.jpg" alt="Toli in a yellow coat by a sunny window" width="112" height="112" fetchpriority="high"></div>
-<p class="profile-intro">Super snuggly, but will absolutely devour my prey.&nbsp;🐶</p>
+<p class="profile-intro">Super snuggly, but will absolutely devour my prey. 🐶</p>
 
-## 🎨 Creative & Playful
-
-I make obscure parody videos and love asking “What if?”—especially when the idea is a little ridiculous. I’m looking for someone who wants to play along, bring their own strange ideas, and create something unique together.
-
-That playful energy shows up in AcroYoga, festivals, and the communities I build. I’m happiest helping people find purpose and a sense of home. Bring me into your world, too—let’s experience each other’s magic. ✨
-
-## ✍️ Writing & Wonder
-
-A few of my most-clapped essays on connection, vulnerability, and the stories we tell ourselves.
-
-<div class="profile-writing">
-  <a class="profile-essay" href="https://tolicodes.medium.com/energy-cords-and-foreign-energy-in-your-aura-7bae5ac3c57c">
-    <span class="profile-essay-title">Energy Cords &amp; Foreign Energy in Your Aura <span aria-hidden="true">↗</span></span>
-    <span class="profile-essay-description">My spiritual take on emotional attachments, other people’s influence, and choosing what to let go.</span>
-  </a>
-  <a class="profile-essay" href="https://tolicodes.medium.com/rejection-breakups-vulnurability-and-bdsm-b2f80b682373">
-    <span class="profile-essay-title">Rejection, Breakups, Vulnerability &amp; BDSM <span aria-hidden="true">↗</span></span>
-    <span class="profile-essay-description">Learning to ask for what I want, face rejection, and explore trust without closing myself off to love.</span>
-  </a>
-  <a class="profile-essay" href="https://tolicodes.medium.com/why-we-focus-on-the-negative-and-how-its-keeping-us-from-happiness-da2224de0899">
-    <span class="profile-essay-title">Why We Focus on the Negative <span aria-hidden="true">↗</span></span>
-    <span class="profile-essay-description">My reflections on noticing thoughts, separating facts from stories, and making room for gratitude.</span>
-  </a>
+<div class="profile-photos" aria-label="Photos of Toli">
+  <a href="/photos/profile/smile.jpg"><img src="/photos/profile/smile.jpg" alt="Toli laughing under a tree in a mustard-yellow jacket" width="768" height="1024" fetchpriority="high"></a>
+  <a href="/photos/profile/promise.jpg"><img src="/photos/profile/promise.jpg" alt="Toli cuddling Promise outdoors, upside down and grinning" width="768" height="1024"></a>
+  <a href="/photos/profile/beach.jpg"><img src="/photos/profile/beach.jpg" alt="Toli balancing on one leg at the beach in pink sunglasses" width="768" height="1024"></a>
+  <a href="/photos/profile/red-dress.jpg"><img src="/photos/profile/red-dress.jpg" alt="Toli smiling in a red dress beside heart balloons" width="665" height="1182" loading="lazy"></a>
+  <a href="/photos/profile/fire-acro.jpg"><img src="/photos/profile/fire-acro.jpg" alt="Toli and a partner doing acro with fire props" width="604" height="1304" loading="lazy"></a>
+  <a href="/photos/profile/portrait.jpg"><img src="/photos/profile/portrait.jpg" alt="Black-and-white portrait of Toli" width="768" height="1024" loading="lazy"></a>
 </div>
-
-[Explore all my writing on Medium →](https://tolicodes.medium.com/)
-
-{% include profile-gallery.html %}
 
 ## 😈 Kinky Me
 
@@ -55,13 +142,14 @@ I found kink with a partner seven years ago. We had no idea what we were doing, 
 
 ## 🌲 PB Outside the Bedroom
 
-AcroYoga, Burner events, festivals, camping, psychology rabbit holes (I work in AI for mental health).
+AcroYoga, Burner events, festivals, camping, psychology rabbit holes (I work in AI for mental health). I’m happiest building communities where people find purpose and a sense of home.
 
 Neuro🌶️, high-functioning autism.
 
 Also in my world:
 
 - 🐶 Promise, my cuddly and athletic Border Collie mix.
+- 🎥 Creating obscure parody videos—nothing’s off-limits.
 - 🏃‍♂️ Hiking, biking, swimming, jogging, and traveling somewhere warm.
 - 🤸‍♂️ Cuddle parties and circling for connection.
 
@@ -211,6 +299,10 @@ This option is designed for those who believe not just in the potential for a su
 - [API Scraping](https://www.codementor.io/blog/api-scraping-5fq1gtd4ah)
 - [Scaling FE Teams - My HOVER Story](https://www.feinfra.com/success-failure-stories/scaling-fe-teams-my-hover-story)
 
+
+## 📸 Insta...ntly Fall In Love
+
+{% include_relative custom/image-grid.html images=page.images %}
 
 ## 🛝 [Call To Action](/playground)
 
