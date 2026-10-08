@@ -288,6 +288,7 @@ This option is designed for those who believe not just in the potential for a su
 ▶️ Media
 - [How I Learned Empathy with Asperger's](https://www.youtube.com/watch?v=z1VNwapOb8E)
 - [Developer Happiness Podcast](https://podcasts.apple.com/pl/podcast/jsj-358-pickle-js-tooling-developer-happiness-anatoliy/id1237401284?i=1000433942248)
+- [PickleJS archived documentation](https://picklejs.toli.me/)
 
 💼 Work
 - [ToliCodes](https://tolicodes.com) - my more "professional" site
